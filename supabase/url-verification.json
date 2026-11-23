@@ -1,0 +1,4096 @@
+{
+  "checkedAt": "2026-11-22T20:24:23.276Z",
+  "results": [
+    {
+      "key": "ai-engineering-chip-huyen",
+      "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+      "expect": "AI Engineering (Chip Huyen) — O'Reilly Media",
+      "status": 403,
+      "finalUrl": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+      "title": "Access Denied",
+      "verdict": "blocked"
+    },
+    {
+      "key": "cloudflare-learning-center",
+      "url": "https://www.cloudflare.com/learning/",
+      "expect": "Cloudflare Learning Center — Cloudflare",
+      "status": 403,
+      "finalUrl": "https://www.cloudflare.com/learning/",
+      "title": "Just a moment...",
+      "verdict": "blocked"
+    },
+    {
+      "key": "effective-java",
+      "url": "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/",
+      "expect": "Effective Java (3rd edition) — Addison-Wesley",
+      "status": 403,
+      "finalUrl": "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/",
+      "title": "Access Denied",
+      "verdict": "blocked"
+    },
+    {
+      "key": "fluent-python",
+      "url": "https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/",
+      "expect": "Fluent Python (2nd edition) — O'Reilly Media",
+      "status": 403,
+      "finalUrl": "https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/",
+      "title": "Access Denied",
+      "verdict": "blocked"
+    },
+    {
+      "key": "leetcode",
+      "url": "https://leetcode.com/",
+      "expect": "LeetCode — LeetCode",
+      "status": 403,
+      "finalUrl": "https://leetcode.com/",
+      "title": "Just a moment...",
+      "verdict": "blocked"
+    },
+    {
+      "key": "opencv-tutorials",
+      "url": "https://docs.opencv.org/4.x/d9/df8/tutorial_root.html",
+      "expect": "OpenCV tutorials — OpenCV",
+      "status": 403,
+      "finalUrl": "https://docs.opencv.org/4.13.0/d9/df8/tutorial_root.html",
+      "title": "Just a moment...",
+      "verdict": "blocked"
+    },
+    {
+      "key": "real-python",
+      "url": "https://realpython.com/",
+      "expect": "Real Python tutorials — Real Python",
+      "status": 403,
+      "finalUrl": "https://realpython.com/",
+      "title": "Just a moment...",
+      "verdict": "blocked"
+    },
+    {
+      "key": "tech:web-accessibility",
+      "url": "https://www.w3.org/WAI/",
+      "expect": "Web Accessibility official site",
+      "status": 403,
+      "finalUrl": "https://www.w3.org/WAI/",
+      "title": "Just a moment...",
+      "verdict": "blocked"
+    },
+    {
+      "key": "wai-tutorials",
+      "url": "https://www.w3.org/WAI/tutorials/",
+      "expect": "W3C WAI Web Accessibility Tutorials — W3C Web Accessibility Initiative",
+      "status": 403,
+      "finalUrl": "https://www.w3.org/WAI/tutorials/",
+      "title": "Just a moment...",
+      "verdict": "blocked"
+    },
+    {
+      "key": "wcag-quickref",
+      "url": "https://www.w3.org/WAI/WCAG22/quickref/",
+      "expect": "How to Meet WCAG (Quick Reference) — W3C Web Accessibility Initiative",
+      "status": 403,
+      "finalUrl": "https://www.w3.org/WAI/WCAG22/quickref/",
+      "title": "Just a moment...",
+      "verdict": "blocked"
+    },
+    {
+      "key": "cmu-15-445",
+      "url": "https://15445.courses.cs.cmu.edu/",
+      "expect": "CMU 15-445/645: Database Systems — Carnegie Mellon University",
+      "status": 200,
+      "finalUrl": "https://15445.courses.cs.cmu.edu/fall2026/",
+      "title": "CMU 15-445/645 :: Intro to Database Systems (Fall 2026)",
+      "verdict": "redirected"
+    },
+    {
+      "key": "hugging-face-agents-course",
+      "url": "https://huggingface.co/learn/agents-course",
+      "expect": "Hugging Face AI Agents Course — Hugging Face",
+      "status": 200,
+      "finalUrl": "https://huggingface.co/learn/agents-course/unit0/introduction",
+      "title": "Welcome to the 🤗 AI Agents Course · Hugging Face",
+      "verdict": "redirected"
+    },
+    {
+      "key": "hugging-face-diffusion-course",
+      "url": "https://huggingface.co/learn/diffusion-course",
+      "expect": "Hugging Face Diffusion Models Course — Hugging Face",
+      "status": 200,
+      "finalUrl": "https://huggingface.co/learn/diffusion-course/unit0/1",
+      "title": "Hugging Face Diffusion Models Course · Hugging Face",
+      "verdict": "redirected"
+    },
+    {
+      "key": "hugging-face-llm-course",
+      "url": "https://huggingface.co/learn/llm-course",
+      "expect": "Hugging Face LLM Course — Hugging Face",
+      "status": 200,
+      "finalUrl": "https://huggingface.co/learn/llm-course/chapter1/1",
+      "title": "Introduction · Hugging Face",
+      "verdict": "redirected"
+    },
+    {
+      "key": "mit-6-1810",
+      "url": "https://pdos.csail.mit.edu/6.1810/",
+      "expect": "MIT 6.1810: Operating System Engineering — MIT CSAIL",
+      "status": 200,
+      "finalUrl": "https://pdos.csail.mit.edu/6.1810/2026/",
+      "title": "6.1810 / Fall 2026",
+      "verdict": "redirected"
+    },
+    {
+      "key": "model-context-protocol",
+      "url": "https://modelcontextprotocol.io/",
+      "expect": "Model Context Protocol documentation — Model Context Protocol",
+      "status": 200,
+      "finalUrl": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+      "title": "What is the Model Context Protocol (MCP)? - Model Context Protocol",
+      "verdict": "redirected"
+    },
+    {
+      "key": "3b1b-essence-of-calculus",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+      "expect": "Essence of calculus (3Blue1Brown) — 3Blue1Brown",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+      "title": "Essence of calculus",
+      "verdict": "ok",
+      "author": "3Blue1Brown"
+    },
+    {
+      "key": "3b1b-essence-of-linear-algebra",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+      "expect": "Essence of linear algebra (3Blue1Brown) — 3Blue1Brown",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+      "title": "Essence of linear algebra",
+      "verdict": "ok",
+      "author": "3Blue1Brown"
+    },
+    {
+      "key": "3b1b-neural-networks",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+      "expect": "Neural networks (3Blue1Brown) — 3Blue1Brown",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+      "title": "Neural networks",
+      "verdict": "ok",
+      "author": "3Blue1Brown"
+    },
+    {
+      "key": "a11y-project-checklist",
+      "url": "https://www.a11yproject.com/checklist/",
+      "expect": "The A11Y Project checklist — The A11Y Project",
+      "status": 200,
+      "finalUrl": "https://www.a11yproject.com/checklist/",
+      "title": "Checklist - The A11Y Project",
+      "verdict": "ok"
+    },
+    {
+      "key": "abdul-bari-algorithms",
+      "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "expect": "Algorithms (Abdul Bari) — Abdul Bari",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "title": "Algorithms",
+      "verdict": "ok",
+      "author": "Abdul Bari"
+    },
+    {
+      "key": "algorithms-4th-edition",
+      "url": "https://algs4.cs.princeton.edu/home/",
+      "expect": "Algorithms, 4th Edition (booksite) — Robert Sedgewick & Kevin Wayne (Princeton University)",
+      "status": 200,
+      "finalUrl": "https://algs4.cs.princeton.edu/home/",
+      "title": "Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne",
+      "verdict": "ok"
+    },
+    {
+      "key": "algorithms-jeff-erickson",
+      "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/",
+      "expect": "Algorithms by Jeff Erickson — Jeff Erickson (University of Illinois)",
+      "status": 200,
+      "finalUrl": "https://jeffe.cs.illinois.edu/teaching/algorithms/",
+      "title": "Algorithms by Jeff Erickson",
+      "verdict": "ok"
+    },
+    {
+      "key": "android-app-architecture",
+      "url": "https://developer.android.com/topic/architecture",
+      "expect": "Guide to app architecture (Android) — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/topic/architecture?auto_signin=false",
+      "title": "Guide to app architecture &nbsp;|&nbsp; App architecture &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "android-basics-compose",
+      "url": "https://developer.android.com/courses/android-basics-compose/course",
+      "expect": "Android Basics with Compose — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/courses/android-basics-compose/course?auto_signin=false",
+      "title": "Android Basics with Compose course &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "android-developer-guides",
+      "url": "https://developer.android.com/guide/components/fundamentals",
+      "expect": "Application fundamentals (Android) — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/guide/components/fundamentals?auto_signin=false",
+      "title": "Application fundamentals &nbsp;|&nbsp; App architecture &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "android-publish",
+      "url": "https://developer.android.com/studio/publish",
+      "expect": "Publish your app (Android) — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/studio/publish?auto_signin=false",
+      "title": "Publish your app &nbsp;|&nbsp; Android Studio &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "android-room",
+      "url": "https://developer.android.com/training/data-storage/room",
+      "expect": "Save data in a local database using Room — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/training/data-storage/room?auto_signin=false",
+      "title": "Save data in a local database using Room &nbsp;|&nbsp; App data and files &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "android-studio-intro",
+      "url": "https://developer.android.com/studio/intro",
+      "expect": "Meet Android Studio — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/studio/intro?auto_signin=false",
+      "title": "Meet Android Studio &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "android-testing",
+      "url": "https://developer.android.com/training/testing",
+      "expect": "Test apps on Android — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/training/testing?auto_signin=false",
+      "title": "Test apps on Android &nbsp;|&nbsp; Test your app on Android &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "ansible-getting-started",
+      "url": "https://docs.ansible.com/projects/ansible/latest/getting_started/index.html",
+      "expect": "Getting started with Ansible — Red Hat (Ansible)",
+      "status": 200,
+      "finalUrl": "https://docs.ansible.com/projects/ansible/latest/getting_started/index.html",
+      "title": "Getting started with Ansible &mdash; Ansible Community Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "ansible-playbook-guide",
+      "url": "https://docs.ansible.com/projects/ansible/latest/playbook_guide/index.html",
+      "expect": "Ansible playbook guide — Red Hat (Ansible)",
+      "status": 200,
+      "finalUrl": "https://docs.ansible.com/projects/ansible/latest/playbook_guide/index.html",
+      "title": "Using Ansible playbooks &mdash; Ansible Community Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "anthropic-building-effective-agents",
+      "url": "https://www.anthropic.com/research/building-effective-agents",
+      "expect": "Building effective agents (Anthropic) — Anthropic",
+      "status": 200,
+      "finalUrl": "https://www.anthropic.com/research/building-effective-agents",
+      "title": "Building effective AI agents \\ Anthropic",
+      "verdict": "ok"
+    },
+    {
+      "key": "anthropic-courses",
+      "url": "https://github.com/anthropics/courses",
+      "expect": "Anthropic courses — Anthropic",
+      "status": 200,
+      "finalUrl": "https://github.com/anthropics/courses",
+      "title": "GitHub - anthropics/courses: Anthropic's educational courses · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "anthropic-prompt-engineering-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "expect": "Prompt Engineering Interactive Tutorial (Anthropic) — Anthropic",
+      "status": 200,
+      "finalUrl": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "title": "GitHub - anthropics/prompt-eng-interactive-tutorial: Anthropic's Interactive Prompt Engineering Tutorial · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "apache-airflow-docs",
+      "url": "https://airflow.apache.org/docs/",
+      "expect": "Apache Airflow documentation — Apache Software Foundation",
+      "status": 200,
+      "finalUrl": "https://airflow.apache.org/docs/",
+      "title": "Documentation | Apache Airflow",
+      "verdict": "ok"
+    },
+    {
+      "key": "apple-develop-in-swift",
+      "url": "https://developer.apple.com/tutorials/develop-in-swift",
+      "expect": "Develop in Swift Tutorials — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/tutorials/develop-in-swift",
+      "title": "Develop in Swift | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "apple-distribute",
+      "url": "https://developer.apple.com/distribute/",
+      "expect": "Distribute apps (Apple Developer) — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/distribute/",
+      "title": "Distribute - Apple Developer",
+      "verdict": "ok"
+    },
+    {
+      "key": "apple-human-interface-guidelines",
+      "url": "https://developer.apple.com/design/human-interface-guidelines",
+      "expect": "Human Interface Guidelines — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/design/human-interface-guidelines",
+      "title": "Human Interface Guidelines | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "attention-is-all-you-need",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "expect": "Attention Is All You Need (Vaswani et al., 2017) — Google Brain & Google Research (arXiv)",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/1706.03762",
+      "title": "[1706.03762] Attention Is All You Need",
+      "verdict": "ok"
+    },
+    {
+      "key": "automate-the-boring-stuff",
+      "url": "https://automatetheboringstuff.com/",
+      "expect": "Automate the Boring Stuff with Python — Al Sweigart",
+      "status": 200,
+      "finalUrl": "https://automatetheboringstuff.com/",
+      "title": "Automate the Boring Stuff with Python - Automate the Boring Stuff with Python",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-architecture-center",
+      "url": "https://aws.amazon.com/architecture/",
+      "expect": "AWS Architecture Center — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/architecture/",
+      "title": "Reference Architecture Examples and Best Practices",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-cloud-practitioner-essentials",
+      "url": "https://aws.amazon.com/training/learn-about/cloud-practitioner/",
+      "expect": "AWS Cloud Practitioner training (including Cloud Practitioner Essentials) — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/training/learn-about/cloud-practitioner/",
+      "title": "Cloud Practitioner - Digital and Classroom Training | AWS",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-cloudwatch-docs",
+      "url": "https://docs.aws.amazon.com/cloudwatch/",
+      "expect": "Amazon CloudWatch documentation — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/cloudwatch/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-ec2-docs",
+      "url": "https://docs.aws.amazon.com/ec2/",
+      "expect": "Amazon EC2 documentation — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/ec2/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-iam-user-guide",
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+      "expect": "What is IAM? (AWS IAM User Guide) — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+      "title": "What is IAM? - AWS Identity and Access Management",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-lambda-docs",
+      "url": "https://docs.aws.amazon.com/lambda/",
+      "expect": "AWS Lambda documentation — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/lambda/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-rds-docs",
+      "url": "https://docs.aws.amazon.com/rds/",
+      "expect": "Amazon RDS documentation — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/rds/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-s3-docs",
+      "url": "https://docs.aws.amazon.com/s3/",
+      "expect": "Amazon S3 documentation — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/s3/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-shared-responsibility-model",
+      "url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "expect": "Shared Responsibility Model (AWS) — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "title": "Shared Responsibility Model - Amazon Web Services (AWS)",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-skill-builder",
+      "url": "https://skillbuilder.aws/",
+      "expect": "AWS Skill Builder — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://skillbuilder.aws/",
+      "title": "AWS Skill Builder",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-types-of-cloud-computing",
+      "url": "https://aws.amazon.com/types-of-cloud-computing/",
+      "expect": "Types of cloud computing (AWS) — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/types-of-cloud-computing/",
+      "title": "SaaS vs PaaS vs IaaS – Types of Cloud Computing – AWS",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-vpc-docs",
+      "url": "https://docs.aws.amazon.com/vpc/",
+      "expect": "Amazon VPC documentation — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/vpc/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-well-architected",
+      "url": "https://aws.amazon.com/architecture/well-architected/",
+      "expect": "AWS Well-Architected Framework — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/architecture/well-architected/",
+      "title": "AWS Well-Architected - Build secure, efficient cloud applications",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-what-is-cloud-computing",
+      "url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "expect": "What is cloud computing? (AWS) — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/what-is-cloud-computing/",
+      "title": "What is Cloud Computing? - Cloud Computing Services, Benefits, and Types - AWS",
+      "verdict": "ok"
+    },
+    {
+      "key": "aws-workshops",
+      "url": "https://builder.aws.com/build/workshops",
+      "expect": "AWS Workshops — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://builder.aws.com/build/workshops",
+      "title": "Workshops | Build | AWS Builder Center",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-aks-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/aks/",
+      "expect": "Azure Kubernetes Service (AKS) documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/aks/",
+      "title": "Azure Kubernetes Service (AKS) documentation | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-app-service-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/",
+      "expect": "Azure App Service documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/app-service/",
+      "title": "Azure App Service documentation - Azure App Service | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-architecture-center",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/",
+      "expect": "Azure Architecture Center — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/architecture/",
+      "title": "Azure Architecture Center",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-functions-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/",
+      "expect": "Azure Functions documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/azure-functions/",
+      "title": "Azure Functions documentation | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-monitor-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/",
+      "expect": "Azure Monitor documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/azure-monitor/",
+      "title": "Azure Monitor documentation - Azure Monitor | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-pipelines-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/devops/pipelines/",
+      "expect": "Azure Pipelines documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops",
+      "title": "Azure Pipelines documentation - Azure DevOps | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-pricing-calculator",
+      "url": "https://azure.microsoft.com/en-us/pricing/calculator/",
+      "expect": "Azure pricing calculator — Microsoft",
+      "status": 200,
+      "finalUrl": "https://azure.microsoft.com/en-us/pricing/calculator/",
+      "title": "Pricing Calculator | Microsoft Azure",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-shared-responsibility",
+      "url": "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility",
+      "expect": "Shared responsibility in the cloud (Azure) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility",
+      "title": "Shared responsibility in the cloud - Microsoft Azure | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-sql-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-sql/",
+      "expect": "Azure SQL documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql",
+      "title": "Azure SQL documentation - Azure SQL | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-storage-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/",
+      "expect": "Azure Storage documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/storage/",
+      "title": "Azure Storage Documentation Hub | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-virtual-machines-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/virtual-machines/",
+      "expect": "Azure Virtual Machines documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/virtual-machines/",
+      "title": "Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-virtual-network-docs",
+      "url": "https://learn.microsoft.com/en-us/azure/virtual-network/",
+      "expect": "Azure Virtual Network documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/virtual-network/",
+      "title": "Azure Virtual Network Documentation - Tutorials, quickstarts, API references | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-well-architected",
+      "url": "https://learn.microsoft.com/en-us/azure/well-architected/",
+      "expect": "Azure Well-Architected Framework — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/well-architected/",
+      "title": "Azure Well-Architected Framework - Microsoft Azure Well-Architected Framework | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "azure-what-is-cloud-computing",
+      "url": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing",
+      "expect": "What is cloud computing? (Azure cloud computing dictionary) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing",
+      "title": "What Is Cloud Computing? | Microsoft Azure",
+      "verdict": "ok"
+    },
+    {
+      "key": "bash-guide-wooledge",
+      "url": "https://mywiki.wooledge.org/BashGuide",
+      "expect": "BashGuide (Greg's Wiki) — Greg's Wiki",
+      "status": 200,
+      "finalUrl": "https://mywiki.wooledge.org/BashGuide",
+      "title": "BashGuide - Greg's Wiki",
+      "verdict": "ok"
+    },
+    {
+      "key": "beej-c",
+      "url": "https://beej.us/guide/bgc/",
+      "expect": "Beej's Guide to C Programming — Brian “Beej” Hall",
+      "status": 200,
+      "finalUrl": "https://beej.us/guide/bgc/",
+      "title": "Beej's Guide to C Programming",
+      "verdict": "ok"
+    },
+    {
+      "key": "beej-network-programming",
+      "url": "https://beej.us/guide/bgnet/",
+      "expect": "Beej's Guide to Network Programming — Brian “Beej” Hall",
+      "status": 200,
+      "finalUrl": "https://beej.us/guide/bgnet/",
+      "title": "Beej's Guide to Network Programming",
+      "verdict": "ok"
+    },
+    {
+      "key": "ben-eater-8-bit-computer",
+      "url": "https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU",
+      "expect": "Building an 8-bit breadboard computer (Ben Eater) — Ben Eater",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU",
+      "title": "Building an 8-bit breadboard computer!",
+      "verdict": "ok",
+      "author": "Ben Eater"
+    },
+    {
+      "key": "big-o-cheat-sheet",
+      "url": "https://www.bigocheatsheet.com/",
+      "expect": "Big-O Algorithm Complexity Cheat Sheet — Eric Rowell",
+      "status": 200,
+      "finalUrl": "https://www.bigocheatsheet.com/",
+      "title": "Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell",
+      "verdict": "ok"
+    },
+    {
+      "key": "bigquery-introduction",
+      "url": "https://docs.cloud.google.com/bigquery/docs/introduction",
+      "expect": "BigQuery overview — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/bigquery/docs/introduction",
+      "title": "BigQuery overview &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "book-of-proof",
+      "url": "https://richardhammack.github.io/BookOfProof/",
+      "expect": "Book of Proof — Richard Hammack",
+      "status": 200,
+      "finalUrl": "https://richardhammack.github.io/BookOfProof/",
+      "title": "Book of Proof",
+      "verdict": "ok"
+    },
+    {
+      "key": "carbon-design-system",
+      "url": "https://www.carbondesignsystem.com/",
+      "expect": "Carbon Design System — IBM",
+      "status": 200,
+      "finalUrl": "https://www.carbondesignsystem.com/",
+      "title": "Home | Carbon Design System",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:ai-engineer",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/",
+      "expect": "Azure AI Engineer Associate (AI-102) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/",
+      "title": "Microsoft Certified: Azure AI Engineer Associate - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:aws-cloud-engineer",
+      "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+      "expect": "AWS Certified Cloud Practitioner — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+      "title": "AWS Certified Cloud Practitioner",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:aws-cloud-engineer",
+      "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+      "expect": "AWS Certified Solutions Architect – Associate — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+      "title": "AWS Certified Solutions Architect – Associate",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:aws-cloud-engineer",
+      "url": "https://aws.amazon.com/certification/certified-developer-associate/",
+      "expect": "AWS Certified Developer – Associate — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-developer-associate/",
+      "title": "AWS Certified Developer - Associate",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:azure-cloud-engineer",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/",
+      "expect": "Azure Fundamentals (AZ-900) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/",
+      "title": "Microsoft Certified: Azure Fundamentals - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:azure-cloud-engineer",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/",
+      "expect": "Azure Administrator Associate (AZ-104) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/",
+      "title": "Microsoft Certified: Azure Administrator Associate - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:azure-cloud-engineer",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/",
+      "expect": "Azure Developer Associate (AZ-204) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/",
+      "title": "Microsoft Certified: Azure Developer Associate - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:azure-cloud-engineer",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/",
+      "expect": "Azure Solutions Architect Expert (AZ-305) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/",
+      "title": "Microsoft Certified: Azure Solutions Architect Expert - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:cloud-engineer",
+      "url": "https://cloud.google.com/learn/certification/cloud-digital-leader",
+      "expect": "Cloud Digital Leader — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/cloud-digital-leader",
+      "title": "Cloud Digital Leader &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:cloud-engineer",
+      "url": "https://cloud.google.com/learn/certification/cloud-engineer",
+      "expect": "Associate Cloud Engineer — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/cloud-engineer",
+      "title": "Associate Cloud Engineer Certification &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:cloud-engineer",
+      "url": "https://cloud.google.com/learn/certification/cloud-architect",
+      "expect": "Professional Cloud Architect — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/cloud-architect",
+      "title": "Professional Cloud Architect Certification &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:data-engineer",
+      "url": "https://cloud.google.com/learn/certification/data-engineer",
+      "expect": "Professional Data Engineer — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/data-engineer",
+      "title": "Professional Data Engineer Certification &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:data-engineer",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/",
+      "expect": "Fabric Data Engineer Associate (DP-700) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/",
+      "title": "Microsoft Certified: Fabric Data Engineer Associate - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:database-administrator",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/",
+      "expect": "Azure Database Administrator Associate (DP-300) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/",
+      "title": "Microsoft Certified: Azure Database Administrator Associate - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:devops-engineer",
+      "url": "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/",
+      "expect": "Certified Kubernetes Administrator (CKA) — The Linux Foundation",
+      "status": 200,
+      "finalUrl": "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/",
+      "title": "Certified Kubernetes Administrator (CKA) - Linux Foundation - Education",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:devops-engineer",
+      "url": "https://developer.hashicorp.com/certifications/terraform-associate",
+      "expect": "Terraform Associate — HashiCorp",
+      "status": 200,
+      "finalUrl": "https://developer.hashicorp.com/certifications/terraform-associate",
+      "title": "Terraform Associate | HashiCorp Developer",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:devops-engineer",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/",
+      "expect": "DevOps Engineer Expert (AZ-400) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/",
+      "title": "Microsoft Certified: DevOps Engineer Expert - Certifications | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:devops-engineer",
+      "url": "https://aws.amazon.com/certification/certified-devops-engineer-professional/",
+      "expect": "AWS Certified DevOps Engineer – Professional — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-devops-engineer-professional/",
+      "title": "AWS Certified DevOps Engineer – Professional",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:machine-learning-engineer",
+      "url": "https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/",
+      "expect": "AWS Certified Machine Learning Engineer – Associate — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/",
+      "title": "AWS Certified Machine Learning Engineer – Associate",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:machine-learning-engineer",
+      "url": "https://cloud.google.com/learn/certification/machine-learning-engineer",
+      "expect": "Professional Machine Learning Engineer — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/machine-learning-engineer",
+      "title": "Professional ML Engineer Certification &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud",
+      "verdict": "ok"
+    },
+    {
+      "key": "cert:python-developer",
+      "url": "https://pythoninstitute.org/pcep",
+      "expect": "PCEP – Certified Entry-Level Python Programmer — Python Institute",
+      "status": 200,
+      "finalUrl": "https://pythoninstitute.org/pcep",
+      "title": "PCEP",
+      "verdict": "ok"
+    },
+    {
+      "key": "cisco-networking-basics",
+      "url": "https://www.netacad.com/courses/networking-basics",
+      "expect": "Networking Basics (Cisco Networking Academy) — Cisco Networking Academy",
+      "status": 200,
+      "finalUrl": "https://www.netacad.com/courses/networking-basics",
+      "title": "Free Computer Networking Course by Cisco: Start Learning Now",
+      "verdict": "ok"
+    },
+    {
+      "key": "cloud-resume-challenge",
+      "url": "https://cloudresumechallenge.dev/",
+      "expect": "The Cloud Resume Challenge — Forrest Brazeal",
+      "status": 200,
+      "finalUrl": "https://cloudresumechallenge.dev/",
+      "title": "The Cloud Resume Challenge",
+      "verdict": "ok"
+    },
+    {
+      "key": "compiler-explorer",
+      "url": "https://godbolt.org/",
+      "expect": "Compiler Explorer — Matt Godbolt",
+      "status": 200,
+      "finalUrl": "https://godbolt.org/",
+      "title": "Compiler Explorer",
+      "verdict": "ok"
+    },
+    {
+      "key": "cpp-core-guidelines",
+      "url": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+      "expect": "C++ Core Guidelines — Standard C++ Foundation",
+      "status": 200,
+      "finalUrl": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+      "title": "C++ Core Guidelines",
+      "verdict": "ok"
+    },
+    {
+      "key": "cppreference-c",
+      "url": "https://en.cppreference.com/c",
+      "expect": "C reference on cppreference.com — cppreference.com",
+      "status": 200,
+      "finalUrl": "https://en.cppreference.com/c",
+      "title": "C reference - cppreference.com",
+      "verdict": "ok"
+    },
+    {
+      "key": "cppreference-cpp",
+      "url": "https://en.cppreference.com/cpp",
+      "expect": "C++ reference on cppreference.com — cppreference.com",
+      "status": 200,
+      "finalUrl": "https://en.cppreference.com/cpp",
+      "title": "C++ reference - cppreference.com",
+      "verdict": "ok"
+    },
+    {
+      "key": "crafting-interpreters",
+      "url": "https://craftinginterpreters.com/",
+      "expect": "Crafting Interpreters — Robert Nystrom",
+      "status": 200,
+      "finalUrl": "https://craftinginterpreters.com/",
+      "title": "Crafting Interpreters",
+      "verdict": "ok"
+    },
+    {
+      "key": "cs50-python",
+      "url": "https://cs50.harvard.edu/python/",
+      "expect": "CS50's Introduction to Programming with Python — Harvard University",
+      "status": 200,
+      "finalUrl": "https://cs50.harvard.edu/python/",
+      "title": "CS50's Introduction to Programming with Python",
+      "verdict": "ok"
+    },
+    {
+      "key": "cs50x",
+      "url": "https://cs50.harvard.edu/x/",
+      "expect": "CS50: Introduction to Computer Science — Harvard University",
+      "status": 200,
+      "finalUrl": "https://cs50.harvard.edu/x/",
+      "title": "CS50x 2026",
+      "verdict": "ok"
+    },
+    {
+      "key": "csa-security-guidance",
+      "url": "https://cloudsecurityalliance.org/research/guidance",
+      "expect": "Security Guidance for Critical Areas of Focus in Cloud Computing — Cloud Security Alliance",
+      "status": 200,
+      "finalUrl": "https://cloudsecurityalliance.org/research/guidance",
+      "title": "CSA Security Guidance for Cloud Computing | CSA",
+      "verdict": "ok"
+    },
+    {
+      "key": "csapp",
+      "url": "https://csapp.cs.cmu.edu/",
+      "expect": "Computer Systems: A Programmer's Perspective — Carnegie Mellon University",
+      "status": 200,
+      "finalUrl": "https://csapp.cs.cmu.edu/",
+      "title": "CS:APP3e, Bryant and O'Hallaron",
+      "verdict": "ok"
+    },
+    {
+      "key": "css-tricks-flexbox",
+      "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "expect": "A Complete Guide to Flexbox — CSS-Tricks",
+      "status": 200,
+      "finalUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "title": "A Complete Guide to CSS Flexbox | CSS-Tricks",
+      "verdict": "ok"
+    },
+    {
+      "key": "css-tricks-grid",
+      "url": "https://css-tricks.com/complete-guide-css-grid-layout/",
+      "expect": "A Complete Guide to CSS Grid — CSS-Tricks",
+      "status": 200,
+      "finalUrl": "https://css-tricks.com/complete-guide-css-grid-layout/",
+      "title": "A Complete Guide to CSS Grid Layout | CSS-Tricks",
+      "verdict": "ok"
+    },
+    {
+      "key": "dart-language",
+      "url": "https://dart.dev/language",
+      "expect": "Introduction to Dart — Google (Dart)",
+      "status": 200,
+      "finalUrl": "https://dart.dev/language",
+      "title": "Introduction to Dart",
+      "verdict": "ok"
+    },
+    {
+      "key": "data-engineering-zoomcamp",
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "expect": "Data Engineering Zoomcamp — DataTalks.Club",
+      "status": 200,
+      "finalUrl": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "title": "GitHub - DataTalksClub/data-engineering-zoomcamp: Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. Join the course",
+      "verdict": "ok"
+    },
+    {
+      "key": "dbt-introduction",
+      "url": "https://docs.getdbt.com/docs/introduction",
+      "expect": "What is dbt? (dbt documentation) — dbt Labs",
+      "status": 200,
+      "finalUrl": "https://docs.getdbt.com/docs/introduction",
+      "title": "What is dbt? | dbt Developer Hub",
+      "verdict": "ok"
+    },
+    {
+      "key": "deep-learning-book",
+      "url": "https://www.deeplearningbook.org/",
+      "expect": "Deep Learning (Goodfellow, Bengio & Courville) — MIT Press",
+      "status": 200,
+      "finalUrl": "https://www.deeplearningbook.org/",
+      "title": "Deep Learning",
+      "verdict": "ok"
+    },
+    {
+      "key": "deep-learning-specialization",
+      "url": "https://www.coursera.org/specializations/deep-learning",
+      "expect": "Deep Learning Specialization (Andrew Ng) — DeepLearning.AI (Coursera)",
+      "status": 200,
+      "finalUrl": "https://www.coursera.org/specializations/deep-learning",
+      "title": "Deep Learning | Coursera",
+      "verdict": "ok"
+    },
+    {
+      "key": "deeplearning-ai-short-courses",
+      "url": "https://www.deeplearning.ai/courses",
+      "expect": "DeepLearning.AI courses — DeepLearning.AI",
+      "status": 200,
+      "finalUrl": "https://www.deeplearning.ai/courses",
+      "title": "DeepLearning.AI",
+      "verdict": "ok"
+    },
+    {
+      "key": "design-tokens-community-group",
+      "url": "https://www.designtokens.org/",
+      "expect": "Design Tokens Community Group — W3C Design Tokens Community Group",
+      "status": 200,
+      "finalUrl": "https://www.designtokens.org/",
+      "title": "Design Tokens Community Group",
+      "verdict": "ok"
+    },
+    {
+      "key": "designing-data-intensive-applications",
+      "url": "https://dataintensive.net/",
+      "expect": "Designing Data-Intensive Applications — Martin Kleppmann (O'Reilly)",
+      "status": 200,
+      "finalUrl": "https://dataintensive.net/",
+      "title": "Designing Data-Intensive Applications (DDIA) — an O’Reilly book by Martin Kleppmann (The Wild Boar Book)",
+      "verdict": "ok"
+    },
+    {
+      "key": "dev-java-learn",
+      "url": "https://dev.java/learn/",
+      "expect": "Learn Java on dev.java — Oracle",
+      "status": 200,
+      "finalUrl": "https://dev.java/learn/",
+      "title": "General Tutorials - Dev.java",
+      "verdict": "ok"
+    },
+    {
+      "key": "dev-java-oop",
+      "url": "https://dev.java/learn/oop/",
+      "expect": "Object-oriented programming concepts (dev.java) — Oracle",
+      "status": 200,
+      "finalUrl": "https://dev.java/learn/oop/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "expect": "DevOps Exercises — Arie Bregman and contributors",
+      "status": 200,
+      "finalUrl": "https://github.com/bregman-arie/devops-exercises",
+      "title": "GitHub - bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure,",
+      "verdict": "ok"
+    },
+    {
+      "key": "dive-into-deep-learning",
+      "url": "https://d2l.ai/",
+      "expect": "Dive into Deep Learning — Zhang, Lipton, Li & Smola",
+      "status": 200,
+      "finalUrl": "https://d2l.ai/",
+      "title": "Dive into Deep Learning — Dive into Deep Learning 1.0.3 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "docker-compose-docs",
+      "url": "https://docs.docker.com/compose/",
+      "expect": "Docker Compose documentation — Docker",
+      "status": 200,
+      "finalUrl": "https://docs.docker.com/compose/",
+      "title": "Docker Compose | Docker Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "docker-get-started",
+      "url": "https://docs.docker.com/learn/",
+      "expect": "Docker Learn — Docker",
+      "status": 200,
+      "finalUrl": "https://docs.docker.com/learn/",
+      "title": "Docker Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "docker-workshop",
+      "url": "https://docs.docker.com/learn/paths/get-started-with-docker-containers/",
+      "expect": "Get started with Docker containers (learning path) — Docker",
+      "status": 200,
+      "finalUrl": "https://docs.docker.com/learn/paths/get-started-with-docker-containers/",
+      "title": "Get started with Docker containers | Docker Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "dockerfile-best-practices",
+      "url": "https://docs.docker.com/build/building/best-practices/",
+      "expect": "Building best practices (Docker) — Docker",
+      "status": 200,
+      "finalUrl": "https://docs.docker.com/build/building/best-practices/",
+      "title": "Building best practices | Docker Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "dotnet-fundamentals",
+      "url": "https://learn.microsoft.com/en-us/dotnet/fundamentals/",
+      "expect": ".NET fundamentals documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/dotnet/fundamentals/",
+      "title": ".NET documentation - .NET | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "eas-build",
+      "url": "https://docs.expo.dev/build/introduction/",
+      "expect": "EAS Build — Expo",
+      "status": 200,
+      "finalUrl": "https://docs.expo.dev/build/introduction/",
+      "title": "Expo Build - Expo documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "effective-go",
+      "url": "https://go.dev/doc/effective_go",
+      "expect": "Effective Go — The Go Authors",
+      "status": 200,
+      "finalUrl": "https://go.dev/doc/effective_go",
+      "title": "Effective Go - The Go Programming Language",
+      "verdict": "ok"
+    },
+    {
+      "key": "eloquent-javascript",
+      "url": "https://eloquentjavascript.net/",
+      "expect": "Eloquent JavaScript (4th edition) — Marijn Haverbeke",
+      "status": 200,
+      "finalUrl": "https://eloquentjavascript.net/",
+      "title": "Eloquent JavaScript",
+      "verdict": "ok"
+    },
+    {
+      "key": "exercism-c",
+      "url": "https://exercism.org/tracks/c",
+      "expect": "C track on Exercism — Exercism",
+      "status": 200,
+      "finalUrl": "https://exercism.org/tracks/c",
+      "title": "C on Exercism",
+      "verdict": "ok"
+    },
+    {
+      "key": "exercism-cpp",
+      "url": "https://exercism.org/tracks/cpp",
+      "expect": "C++ track on Exercism — Exercism",
+      "status": 200,
+      "finalUrl": "https://exercism.org/tracks/cpp",
+      "title": "C++ on Exercism",
+      "verdict": "ok"
+    },
+    {
+      "key": "exercism-csharp",
+      "url": "https://exercism.org/tracks/csharp",
+      "expect": "C# track on Exercism — Exercism",
+      "status": 200,
+      "finalUrl": "https://exercism.org/tracks/csharp",
+      "title": "C# on Exercism",
+      "verdict": "ok"
+    },
+    {
+      "key": "exercism-go",
+      "url": "https://exercism.org/tracks/go",
+      "expect": "Go track on Exercism — Exercism",
+      "status": 200,
+      "finalUrl": "https://exercism.org/tracks/go",
+      "title": "Go on Exercism",
+      "verdict": "ok"
+    },
+    {
+      "key": "exercism-java",
+      "url": "https://exercism.org/tracks/java",
+      "expect": "Java track on Exercism — Exercism",
+      "status": 200,
+      "finalUrl": "https://exercism.org/tracks/java",
+      "title": "Java on Exercism",
+      "verdict": "ok"
+    },
+    {
+      "key": "exercism-javascript",
+      "url": "https://exercism.org/tracks/javascript",
+      "expect": "JavaScript track on Exercism — Exercism",
+      "status": 200,
+      "finalUrl": "https://exercism.org/tracks/javascript",
+      "title": "JavaScript on Exercism",
+      "verdict": "ok"
+    },
+    {
+      "key": "exercism-python",
+      "url": "https://exercism.org/tracks/python",
+      "expect": "Python track on Exercism — Exercism",
+      "status": 200,
+      "finalUrl": "https://exercism.org/tracks/python",
+      "title": "Python on Exercism",
+      "verdict": "ok"
+    },
+    {
+      "key": "expo-router",
+      "url": "https://docs.expo.dev/router/introduction/",
+      "expect": "Expo Router introduction — Expo",
+      "status": 200,
+      "finalUrl": "https://docs.expo.dev/router/introduction/",
+      "title": "Introduction to Expo Router - Expo documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "expo-tutorial",
+      "url": "https://docs.expo.dev/tutorial/introduction/",
+      "expect": "Expo tutorial — Expo",
+      "status": 200,
+      "finalUrl": "https://docs.expo.dev/tutorial/introduction/",
+      "title": "Tutorial: Using React Native and Expo - Expo documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "express-getting-started",
+      "url": "https://expressjs.com/en/starter/installing/",
+      "expect": "Express: Getting started — OpenJS Foundation (Express)",
+      "status": 200,
+      "finalUrl": "https://expressjs.com/en/starter/installing/",
+      "title": "Installing · Express.js",
+      "verdict": "ok"
+    },
+    {
+      "key": "express-security-best-practices",
+      "url": "https://expressjs.com/en/advanced/best-practice-security/",
+      "expect": "Express: Production best practices — security — OpenJS Foundation (Express)",
+      "status": 200,
+      "finalUrl": "https://expressjs.com/en/advanced/best-practice-security/",
+      "title": "Production Best Practices: Security · Express.js",
+      "verdict": "ok"
+    },
+    {
+      "key": "fast-ai-practical-deep-learning",
+      "url": "https://course.fast.ai/",
+      "expect": "Practical Deep Learning for Coders (fast.ai) — fast.ai",
+      "status": 200,
+      "finalUrl": "https://course.fast.ai/",
+      "title": "Practical Deep Learning for Coders - Practical Deep Learning",
+      "verdict": "ok"
+    },
+    {
+      "key": "fcc-git-github-crash-course",
+      "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+      "expect": "Git and GitHub for Beginners – Crash Course — freeCodeCamp.org",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+      "title": "Git and GitHub for Beginners - Crash Course",
+      "verdict": "ok",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "key": "fcc-python-full-course",
+      "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+      "expect": "Learn Python – Full Course for Beginners — freeCodeCamp.org",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+      "title": "Learn Python - Full Course for Beginners [Tutorial]",
+      "verdict": "ok",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "key": "figma-dev-mode-guide",
+      "url": "https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode-in-Figma",
+      "expect": "Guide to Dev Mode (Figma) — Figma",
+      "status": 200,
+      "finalUrl": "https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode-in-Figma",
+      "title": "Guide to Dev Mode in Figma &ndash; Figma Learn - Help Center",
+      "verdict": "ok"
+    },
+    {
+      "key": "finops-framework",
+      "url": "https://www.finops.org/framework/",
+      "expect": "The FinOps Framework — FinOps Foundation",
+      "status": 200,
+      "finalUrl": "https://www.finops.org/framework/",
+      "title": "FinOps Framework Overview",
+      "verdict": "ok"
+    },
+    {
+      "key": "flexbox-froggy",
+      "url": "https://flexboxfroggy.com/",
+      "expect": "Flexbox Froggy — Codepip",
+      "status": 200,
+      "finalUrl": "https://flexboxfroggy.com/",
+      "title": "Flexbox Froggy - A game for learning CSS flexbox",
+      "verdict": "ok"
+    },
+    {
+      "key": "flutter-deployment",
+      "url": "https://docs.flutter.dev/deployment",
+      "expect": "Deploy Flutter apps — Google (Flutter)",
+      "status": 200,
+      "finalUrl": "https://docs.flutter.dev/deployment",
+      "title": "Deployment",
+      "verdict": "ok"
+    },
+    {
+      "key": "flutter-fetch-data",
+      "url": "https://docs.flutter.dev/cookbook/networking/fetch-data",
+      "expect": "Fetch data from the internet (Flutter cookbook) — Google (Flutter)",
+      "status": 200,
+      "finalUrl": "https://docs.flutter.dev/cookbook/networking/fetch-data",
+      "title": "Fetch data from the internet",
+      "verdict": "ok"
+    },
+    {
+      "key": "flutter-get-started",
+      "url": "https://docs.flutter.dev/learn/pathway",
+      "expect": "Flutter learning pathway — Google (Flutter)",
+      "status": 200,
+      "finalUrl": "https://docs.flutter.dev/learn/pathway",
+      "title": "Flutter learning pathway",
+      "verdict": "ok"
+    },
+    {
+      "key": "flutter-state-management",
+      "url": "https://docs.flutter.dev/data-and-backend/state-mgmt/intro",
+      "expect": "State management in Flutter — Google (Flutter)",
+      "status": 200,
+      "finalUrl": "https://docs.flutter.dev/data-and-backend/state-mgmt/intro",
+      "title": "State management",
+      "verdict": "ok"
+    },
+    {
+      "key": "flutter-testing",
+      "url": "https://docs.flutter.dev/testing/overview",
+      "expect": "Testing Flutter apps — Google (Flutter)",
+      "status": 200,
+      "finalUrl": "https://docs.flutter.dev/testing/overview",
+      "title": "Testing Flutter apps",
+      "verdict": "ok"
+    },
+    {
+      "key": "fowler-blue-green",
+      "url": "https://martinfowler.com/bliki/BlueGreenDeployment.html",
+      "expect": "Blue-Green Deployment (Martin Fowler) — Martin Fowler",
+      "status": 200,
+      "finalUrl": "https://martinfowler.com/bliki/BlueGreenDeployment.html",
+      "title": "Blue Green Deployment",
+      "verdict": "ok"
+    },
+    {
+      "key": "fowler-canary-release",
+      "url": "https://martinfowler.com/bliki/CanaryRelease.html",
+      "expect": "Canary Release (Danilo Sato) — Martin Fowler",
+      "status": 200,
+      "finalUrl": "https://martinfowler.com/bliki/CanaryRelease.html",
+      "title": "Canary Release",
+      "verdict": "ok"
+    },
+    {
+      "key": "fowler-continuous-integration",
+      "url": "https://martinfowler.com/articles/continuousIntegration.html",
+      "expect": "Continuous Integration (Martin Fowler) — Martin Fowler",
+      "status": 200,
+      "finalUrl": "https://martinfowler.com/articles/continuousIntegration.html",
+      "title": "Continuous Integration",
+      "verdict": "ok"
+    },
+    {
+      "key": "fowler-microservices",
+      "url": "https://martinfowler.com/articles/microservices.html",
+      "expect": "Microservices (Martin Fowler & James Lewis) — Martin Fowler",
+      "status": 200,
+      "finalUrl": "https://martinfowler.com/articles/microservices.html",
+      "title": "Microservices",
+      "verdict": "ok"
+    },
+    {
+      "key": "freecodecamp-curriculum",
+      "url": "https://www.freecodecamp.org/learn/",
+      "expect": "freeCodeCamp curriculum — freeCodeCamp.org",
+      "status": 200,
+      "finalUrl": "https://www.freecodecamp.org/learn",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "full-stack-open",
+      "url": "https://fullstackopen.com/en/",
+      "expect": "Full Stack Open — University of Helsinki",
+      "status": 200,
+      "finalUrl": "https://fullstackopen.com/en/",
+      "title": "Full stack open",
+      "verdict": "ok"
+    },
+    {
+      "key": "game-programming-patterns",
+      "url": "https://gameprogrammingpatterns.com/",
+      "expect": "Game Programming Patterns — Robert Nystrom",
+      "status": 200,
+      "finalUrl": "https://gameprogrammingpatterns.com/",
+      "title": "Game Programming Patterns",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-cloud-monitoring-docs",
+      "url": "https://docs.cloud.google.com/monitoring/docs",
+      "expect": "Cloud Monitoring documentation — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/monitoring/docs",
+      "title": "Cloud Monitoring documentation &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-cloud-run-docs",
+      "url": "https://docs.cloud.google.com/run/docs",
+      "expect": "Cloud Run documentation — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/run/docs",
+      "title": "Cloud Run documentation &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-cloud-sql-docs",
+      "url": "https://docs.cloud.google.com/sql/docs",
+      "expect": "Cloud SQL documentation — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/sql/docs",
+      "title": "Cloud SQL documentation &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-cloud-storage-docs",
+      "url": "https://docs.cloud.google.com/storage/docs",
+      "expect": "Cloud Storage documentation — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/storage/docs",
+      "title": "Cloud Storage documentation &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-compute-engine-docs",
+      "url": "https://docs.cloud.google.com/compute/docs",
+      "expect": "Compute Engine documentation — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/compute/docs",
+      "title": "Compute Engine documentation &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-docs-overview",
+      "url": "https://docs.cloud.google.com/docs/overview",
+      "expect": "Google Cloud overview — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/docs/overview",
+      "title": "Google Cloud overview &nbsp;|&nbsp; Get started &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-gke-docs",
+      "url": "https://docs.cloud.google.com/kubernetes-engine/docs",
+      "expect": "Google Kubernetes Engine (GKE) documentation — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/kubernetes-engine/docs",
+      "title": "Google Kubernetes Engine documentation &nbsp;|&nbsp; Google Kubernetes Engine (GKE) &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-iam-overview",
+      "url": "https://docs.cloud.google.com/iam/docs/overview",
+      "expect": "IAM overview (Google Cloud) — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/iam/docs/overview",
+      "title": "IAM overview &nbsp;|&nbsp; Identity and Access Management (IAM) &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gcp-vpc-docs",
+      "url": "https://docs.cloud.google.com/vpc/docs",
+      "expect": "Virtual Private Cloud (VPC) documentation — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/vpc/docs",
+      "title": "Virtual Private Cloud documentation &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "gemini-prompting-strategies",
+      "url": "https://aistudio.google.com/docs/prompting-strategies",
+      "expect": "Prompt design strategies (Gemini API) — Google AI Studio",
+      "status": 200,
+      "finalUrl": "https://aistudio.google.com/docs/prompting-strategies",
+      "title": "Prompt design strategies - Gemini API | Google AI Studio",
+      "verdict": "ok"
+    },
+    {
+      "key": "github-docs-get-started",
+      "url": "https://docs.github.com/en/get-started",
+      "expect": "GitHub Docs: Get started — GitHub",
+      "status": 200,
+      "finalUrl": "https://docs.github.com/en/get-started",
+      "title": "Get started with GitHub documentation - GitHub Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "github-skills",
+      "url": "https://learn.github.com/skills",
+      "expect": "GitHub Skills — GitHub",
+      "status": 200,
+      "finalUrl": "https://learn.github.com/skills",
+      "title": "GitHub Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "go-by-example",
+      "url": "https://gobyexample.com/",
+      "expect": "Go by Example — Mark McGranaghan & Eli Bendersky",
+      "status": 200,
+      "finalUrl": "https://gobyexample.com/",
+      "title": "Go by Example",
+      "verdict": "ok"
+    },
+    {
+      "key": "go-documentation",
+      "url": "https://go.dev/doc/",
+      "expect": "Go documentation — The Go Authors",
+      "status": 200,
+      "finalUrl": "https://go.dev/doc/",
+      "title": "Documentation - The Go Programming Language",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-aip",
+      "url": "https://google.aip.dev/",
+      "expect": "Google API Improvement Proposals (AIPs) — Google",
+      "status": 200,
+      "finalUrl": "https://google.aip.dev/",
+      "title": "API Improvement Proposals",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-cloud-architecture-framework",
+      "url": "https://docs.cloud.google.com/architecture/framework",
+      "expect": "Google Cloud Well-Architected Framework — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/architecture/framework",
+      "title": "Google Cloud Well-Architected Framework &nbsp;|&nbsp; Cloud Architecture Center &nbsp;|&nbsp; Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-cloud-skills-boost",
+      "url": "https://www.skills.google/",
+      "expect": "Google Skills (formerly Google Cloud Skills Boost) — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://www.skills.google/",
+      "title": "Google Skills",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-eng-practices",
+      "url": "https://google.github.io/eng-practices/",
+      "expect": "Google Engineering Practices: code review — Google",
+      "status": 200,
+      "finalUrl": "https://google.github.io/eng-practices/",
+      "title": "Google Engineering Practices Documentation | eng-practices",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-ml-crash-course",
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "expect": "Machine Learning Crash Course — Google for Developers",
+      "status": 200,
+      "finalUrl": "https://developers.google.com/machine-learning/crash-course",
+      "title": "Machine Learning &nbsp;|&nbsp; Google for Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-rules-of-ml",
+      "url": "https://developers.google.com/machine-learning/guides/rules-of-ml",
+      "expect": "Rules of Machine Learning (Google) — Google for Developers",
+      "status": 200,
+      "finalUrl": "https://developers.google.com/machine-learning/guides/rules-of-ml",
+      "title": "Rules of Machine Learning: &nbsp;|&nbsp; Google for Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-sre-book",
+      "url": "https://sre.google/sre-book/table-of-contents/",
+      "expect": "Site Reliability Engineering (the SRE book) — Google",
+      "status": 200,
+      "finalUrl": "https://sre.google/sre-book/table-of-contents/",
+      "title": "Google SRE - Site reliability engineering book Google index",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-ux-design-certificate",
+      "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+      "expect": "Google UX Design Professional Certificate — Google (Coursera)",
+      "status": 200,
+      "finalUrl": "https://www.coursera.org/professional-certificates/google-ux-design",
+      "title": "Google UX Design Professional Certificate | Coursera",
+      "verdict": "ok"
+    },
+    {
+      "key": "google-what-is-cloud-computing",
+      "url": "https://cloud.google.com/learn/what-is-cloud-computing",
+      "expect": "What is cloud computing? (Google Cloud) — Google Cloud",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/what-is-cloud-computing",
+      "title": "What is Cloud Computing? | Google Cloud",
+      "verdict": "ok"
+    },
+    {
+      "key": "gov-uk-design-system",
+      "url": "https://design-system.service.gov.uk/",
+      "expect": "GOV.UK Design System — Government Digital Service (UK)",
+      "status": 200,
+      "finalUrl": "https://design-system.service.gov.uk/",
+      "title": "Home – GOV.UK Design System",
+      "verdict": "ok"
+    },
+    {
+      "key": "gov-uk-user-research",
+      "url": "https://www.gov.uk/service-manual/user-research",
+      "expect": "User research (GOV.UK Service Manual) — Government Digital Service (UK)",
+      "status": 200,
+      "finalUrl": "https://www.gov.uk/service-manual/user-research",
+      "title": "User research - Service Manual - GOV.UK",
+      "verdict": "ok"
+    },
+    {
+      "key": "grafana-tutorials",
+      "url": "https://grafana.com/tutorials/",
+      "expect": "Grafana tutorials — Grafana Labs",
+      "status": 200,
+      "finalUrl": "https://grafana.com/tutorials/",
+      "title": "Tutorials | Grafana Labs",
+      "verdict": "ok"
+    },
+    {
+      "key": "graphql-learn",
+      "url": "https://graphql.org/learn/",
+      "expect": "Learn GraphQL (graphql.org) — GraphQL Foundation",
+      "status": 200,
+      "finalUrl": "https://graphql.org/learn/",
+      "title": "Learn | GraphQL",
+      "verdict": "ok"
+    },
+    {
+      "key": "grid-garden",
+      "url": "https://cssgridgarden.com/",
+      "expect": "Grid Garden — Codepip",
+      "status": 200,
+      "finalUrl": "https://cssgridgarden.com/",
+      "title": "Grid Garden - A game for learning CSS grid layout",
+      "verdict": "ok"
+    },
+    {
+      "key": "hacking-with-swift-100-days",
+      "url": "https://www.hackingwithswift.com/100/swiftui",
+      "expect": "100 Days of SwiftUI — Hacking with Swift (Paul Hudson)",
+      "status": 200,
+      "finalUrl": "https://www.hackingwithswift.com/100/swiftui",
+      "title": "100 Days of SwiftUI – Hacking with Swift",
+      "verdict": "ok"
+    },
+    {
+      "key": "helm-docs",
+      "url": "https://helm.sh/docs/",
+      "expect": "Helm documentation — Helm (CNCF)",
+      "status": 200,
+      "finalUrl": "https://helm.sh/docs/",
+      "title": "Docs Home | Helm",
+      "verdict": "ok"
+    },
+    {
+      "key": "high-performance-browser-networking",
+      "url": "https://hpbn.co/",
+      "expect": "High Performance Browser Networking — Ilya Grigorik (O'Reilly)",
+      "status": 200,
+      "finalUrl": "https://hpbn.co/",
+      "title": "High Performance Browser Networking (O'Reilly)",
+      "verdict": "ok"
+    },
+    {
+      "key": "how-aws-pricing-works",
+      "url": "https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/",
+      "expect": "How AWS Pricing Works (whitepaper) — Amazon Web Services",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/",
+      "title": "How AWS Pricing Works",
+      "verdict": "ok"
+    },
+    {
+      "key": "inclusive-components",
+      "url": "https://inclusive-components.design/",
+      "expect": "Inclusive Components — Heydon Pickering",
+      "status": 200,
+      "finalUrl": "https://inclusive-components.design/",
+      "title": "Inclusive Components",
+      "verdict": "ok"
+    },
+    {
+      "key": "interaction-design-foundation",
+      "url": "https://ixdf.org/",
+      "expect": "Interaction Design Foundation (IxDF) — Interaction Design Foundation",
+      "status": 200,
+      "finalUrl": "https://ixdf.org/",
+      "title": "UX/UI Design and AI Courses. Evidence-based design education since 2002 | IxDF",
+      "verdict": "ok"
+    },
+    {
+      "key": "islp",
+      "url": "https://www.statlearning.com/",
+      "expect": "An Introduction to Statistical Learning (with Python) — James, Witten, Hastie, Tibshirani & Taylor",
+      "status": 200,
+      "finalUrl": "https://www.statlearning.com/",
+      "title": "An Introduction to Statistical Learning",
+      "verdict": "ok"
+    },
+    {
+      "key": "isocpp-get-started",
+      "url": "https://isocpp.org/get-started",
+      "expect": "Get Started with C++ (isocpp.org) — Standard C++ Foundation",
+      "status": 200,
+      "finalUrl": "https://isocpp.org/get-started",
+      "title": "Get Started! : Standard C++",
+      "verdict": "ok"
+    },
+    {
+      "key": "java-se-api",
+      "url": "https://docs.oracle.com/en/java/javase/25/docs/api/",
+      "expect": "Java SE 25 API documentation — Oracle",
+      "status": 200,
+      "finalUrl": "https://docs.oracle.com/en/java/javase/25/docs/api/",
+      "title": "Overview (Java SE 25 & JDK 25)",
+      "verdict": "ok"
+    },
+    {
+      "key": "javascript-info",
+      "url": "https://javascript.info/",
+      "expect": "The Modern JavaScript Tutorial — javascript.info",
+      "status": 200,
+      "finalUrl": "https://javascript.info/",
+      "title": "The Modern JavaScript Tutorial",
+      "verdict": "ok"
+    },
+    {
+      "key": "jenkins-pipeline-docs",
+      "url": "https://www.jenkins.io/doc/book/pipeline/",
+      "expect": "Jenkins Pipeline — Jenkins project",
+      "status": 200,
+      "finalUrl": "https://www.jenkins.io/doc/book/pipeline/",
+      "title": "Pipeline",
+      "verdict": "ok"
+    },
+    {
+      "key": "jenkins-tutorials",
+      "url": "https://www.jenkins.io/doc/tutorials/",
+      "expect": "Jenkins tutorials — Jenkins project",
+      "status": 200,
+      "finalUrl": "https://www.jenkins.io/doc/tutorials/",
+      "title": "Tutorials overview",
+      "verdict": "ok"
+    },
+    {
+      "key": "jetpack-compose-tutorial",
+      "url": "https://developer.android.com/develop/ui/compose/tutorial",
+      "expect": "Jetpack Compose tutorial — Google (Android Developers)",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/develop/ui/compose/tutorial?auto_signin=false",
+      "title": "Android Compose Tutorial &nbsp;|&nbsp; Jetpack Compose &nbsp;|&nbsp; Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "k6-docs",
+      "url": "https://grafana.com/docs/k6/latest/",
+      "expect": "Grafana k6 documentation — Grafana Labs",
+      "status": 200,
+      "finalUrl": "https://grafana.com/docs/k6/latest/",
+      "title": "Grafana k6 | Grafana k6 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "kafka-intro",
+      "url": "https://kafka.apache.org/intro",
+      "expect": "Introduction to Apache Kafka — Apache Software Foundation",
+      "status": 200,
+      "finalUrl": "https://kafka.apache.org/intro/",
+      "title": "Introduction | Apache Kafka",
+      "verdict": "ok"
+    },
+    {
+      "key": "kaggle-intro-to-ml",
+      "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+      "expect": "Kaggle Learn: Intro to Machine Learning — Kaggle",
+      "status": 200,
+      "finalUrl": "https://www.kaggle.com/learn/intro-to-machine-learning",
+      "title": "Learn Intro to Machine Learning Tutorials | Kaggle",
+      "verdict": "ok"
+    },
+    {
+      "key": "kaggle-learn-pandas",
+      "url": "https://www.kaggle.com/learn/pandas",
+      "expect": "Kaggle Learn: Pandas — Kaggle",
+      "status": 200,
+      "finalUrl": "https://www.kaggle.com/learn/pandas",
+      "title": "Learn Pandas Tutorials | Kaggle",
+      "verdict": "ok"
+    },
+    {
+      "key": "kaggle-learn-python",
+      "url": "https://www.kaggle.com/learn/python",
+      "expect": "Kaggle Learn: Python — Kaggle",
+      "status": 200,
+      "finalUrl": "https://www.kaggle.com/learn/python",
+      "title": "Learn Python Tutorials | Kaggle",
+      "verdict": "ok"
+    },
+    {
+      "key": "karpathy-intro-to-llms",
+      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "expect": "Intro to Large Language Models (Andrej Karpathy) — Andrej Karpathy",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "title": "[1hr Talk] Intro to Large Language Models",
+      "verdict": "ok",
+      "author": "Andrej Karpathy"
+    },
+    {
+      "key": "karpathy-lets-build-gpt",
+      "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "expect": "Let's build GPT: from scratch, in code, spelled out — Andrej Karpathy",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "title": "Let's build GPT: from scratch, in code, spelled out.",
+      "verdict": "ok",
+      "author": "Andrej Karpathy"
+    },
+    {
+      "key": "karpathy-zero-to-hero",
+      "url": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+      "expect": "Neural Networks: Zero to Hero (Andrej Karpathy) — Andrej Karpathy",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+      "title": "Neural Networks: Zero to Hero",
+      "verdict": "ok",
+      "author": "Andrej Karpathy"
+    },
+    {
+      "key": "keras-guides",
+      "url": "https://keras.io/guides/",
+      "expect": "Keras developer guides — Keras team",
+      "status": 200,
+      "finalUrl": "https://keras.io/guides/",
+      "title": "Developer guides",
+      "verdict": "ok"
+    },
+    {
+      "key": "khan-academy-statistics",
+      "url": "https://www.khanacademy.org/math/statistics-probability",
+      "expect": "Statistics and probability (Khan Academy) — Khan Academy",
+      "status": 200,
+      "finalUrl": "https://www.khanacademy.org/math/statistics-probability",
+      "title": "Client Challenge",
+      "verdict": "ok"
+    },
+    {
+      "key": "kimball-dimensional-modeling",
+      "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/",
+      "expect": "Kimball dimensional modeling techniques — Kimball Group",
+      "status": 200,
+      "finalUrl": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/",
+      "title": "Dimensional Modeling Techniques - Kimball Group",
+      "verdict": "ok"
+    },
+    {
+      "key": "kleppmann-distributed-systems",
+      "url": "https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+      "expect": "Distributed Systems lecture series (Martin Kleppmann) — Martin Kleppmann",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+      "title": "Distributed Systems lecture series",
+      "verdict": "ok",
+      "author": "Martin Kleppmann"
+    },
+    {
+      "key": "kotlin-coroutines-guide",
+      "url": "https://kotlinlang.org/docs/coroutines-guide.html",
+      "expect": "Coroutines guide (Kotlin) — JetBrains (Kotlin)",
+      "status": 200,
+      "finalUrl": "https://kotlinlang.org/docs/coroutines-guide.html",
+      "title": "Coroutines guide | Kotlin Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "kotlin-koans",
+      "url": "https://play.kotlinlang.org/koans/overview",
+      "expect": "Kotlin Koans — JetBrains (Kotlin)",
+      "status": 200,
+      "finalUrl": "https://play.kotlinlang.org/koans/overview",
+      "title": "Kotlin Playground: Edit, Run, Share Kotlin Code Online",
+      "verdict": "ok"
+    },
+    {
+      "key": "kotlin-tour",
+      "url": "https://kotlinlang.org/docs/kotlin-tour-welcome.html",
+      "expect": "Kotlin tour — JetBrains (Kotlin)",
+      "status": 200,
+      "finalUrl": "https://kotlinlang.org/docs/kotlin-tour-welcome.html",
+      "title": "Welcome to our tour of Kotlin! | Kotlin Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "kubernetes-basics",
+      "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+      "expect": "Learn Kubernetes Basics — The Kubernetes Authors (CNCF)",
+      "status": 200,
+      "finalUrl": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+      "title": "Learn Kubernetes Basics | Kubernetes",
+      "verdict": "ok"
+    },
+    {
+      "key": "kubernetes-concepts",
+      "url": "https://kubernetes.io/docs/concepts/",
+      "expect": "Kubernetes concepts — The Kubernetes Authors (CNCF)",
+      "status": 200,
+      "finalUrl": "https://kubernetes.io/docs/concepts/",
+      "title": "Concepts | Kubernetes",
+      "verdict": "ok"
+    },
+    {
+      "key": "kubernetes-deployments",
+      "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/",
+      "expect": "Kubernetes Deployments — The Kubernetes Authors (CNCF)",
+      "status": 200,
+      "finalUrl": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/",
+      "title": "Deployments | Kubernetes",
+      "verdict": "ok"
+    },
+    {
+      "key": "kubernetes-the-hard-way",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "expect": "Kubernetes The Hard Way — Kelsey Hightower",
+      "status": 200,
+      "finalUrl": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "title": "GitHub - kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way. No scripts. · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "kurose-ross-lectures",
+      "url": "https://gaia.cs.umass.edu/kurose_ross/lectures.php",
+      "expect": "Computer Networking: A Top-Down Approach — video lectures — Jim Kurose & Keith Ross",
+      "status": 200,
+      "finalUrl": "https://gaia.cs.umass.edu/kurose_ross/lectures.php",
+      "title": "Computer Networking 9E",
+      "verdict": "ok"
+    },
+    {
+      "key": "laws-of-ux",
+      "url": "https://lawsofux.com/",
+      "expect": "Laws of UX — Jon Yablonski",
+      "status": 200,
+      "finalUrl": "https://lawsofux.com/",
+      "title": "Home | Laws of UX",
+      "verdict": "ok"
+    },
+    {
+      "key": "learn-c-org",
+      "url": "https://www.learn-c.org/",
+      "expect": "Learn-C.org interactive tutorial — Learn-C.org",
+      "status": 200,
+      "finalUrl": "https://www.learn-c.org/",
+      "title": "Learn C - Free Interactive C Tutorial",
+      "verdict": "ok"
+    },
+    {
+      "key": "learn-git-branching",
+      "url": "https://learngitbranching.js.org/",
+      "expect": "Learn Git Branching — Peter Cottle",
+      "status": 200,
+      "finalUrl": "https://learngitbranching.js.org/",
+      "title": "Learn Git Branching",
+      "verdict": "ok"
+    },
+    {
+      "key": "learn-go-with-tests",
+      "url": "https://quii.gitbook.io/learn-go-with-tests",
+      "expect": "Learn Go with Tests — Chris James",
+      "status": 200,
+      "finalUrl": "https://quii.gitbook.io/learn-go-with-tests",
+      "title": "Learn Go with Tests | Learn Go with tests",
+      "verdict": "ok"
+    },
+    {
+      "key": "learn-openapi",
+      "url": "https://learn.openapis.org/",
+      "expect": "Learn OpenAPI — OpenAPI Initiative",
+      "status": 200,
+      "finalUrl": "https://learn.openapis.org/",
+      "title": "Getting Started",
+      "verdict": "ok"
+    },
+    {
+      "key": "learncpp",
+      "url": "https://www.learncpp.com/",
+      "expect": "LearnCpp.com — LearnCpp.com",
+      "status": 200,
+      "finalUrl": "https://www.learncpp.com/",
+      "title": "Learn C++ – Skill up with our free tutorials",
+      "verdict": "ok"
+    },
+    {
+      "key": "lf-intro-to-kubernetes",
+      "url": "https://training.linuxfoundation.org/training/introduction-to-kubernetes/",
+      "expect": "Introduction to Kubernetes (LFS158) — The Linux Foundation",
+      "status": 200,
+      "finalUrl": "https://training.linuxfoundation.org/training/introduction-to-kubernetes/",
+      "title": "Introduction to Kubernetes (LFS158) - Linux Foundation - Training",
+      "verdict": "ok"
+    },
+    {
+      "key": "lf-intro-to-linux",
+      "url": "https://training.linuxfoundation.org/training/introduction-to-linux/",
+      "expect": "Introduction to Linux (LFS101) — The Linux Foundation",
+      "status": 200,
+      "finalUrl": "https://training.linuxfoundation.org/training/introduction-to-linux/",
+      "title": "Introduction to Linux (LFS101) - Linux Foundation - Education",
+      "verdict": "ok"
+    },
+    {
+      "key": "lighthouse-overview",
+      "url": "https://developer.chrome.com/docs/lighthouse/overview",
+      "expect": "Lighthouse documentation — Google Chrome team",
+      "status": 200,
+      "finalUrl": "https://developer.chrome.com/docs/lighthouse/overview",
+      "title": "Introduction to Lighthouse &nbsp;|&nbsp; Chrome for Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "lucidchart-er-diagrams",
+      "url": "https://lucid.co/diagram/erd/tutorial",
+      "expect": "What is an Entity Relationship Diagram (ERD)? — Lucid Software",
+      "status": 200,
+      "finalUrl": "https://lucid.co/diagram/erd/tutorial",
+      "title": "What Is an Entity Relationship Diagram? | Lucid",
+      "verdict": "ok"
+    },
+    {
+      "key": "made-with-ml",
+      "url": "https://madewithml.com/",
+      "expect": "Made With ML — Goku Mohandas (Anyscale)",
+      "status": 200,
+      "finalUrl": "https://madewithml.com/",
+      "title": "Home - Made With ML by Anyscale",
+      "verdict": "ok"
+    },
+    {
+      "key": "material-3-color",
+      "url": "https://m3.material.io/styles/color/overview",
+      "expect": "Color system (Material Design 3) — Google",
+      "status": 200,
+      "finalUrl": "https://m3.material.io/styles/color/overview",
+      "title": "Material Design",
+      "verdict": "ok"
+    },
+    {
+      "key": "material-design-3",
+      "url": "https://m3.material.io/",
+      "expect": "Material Design 3 — Google",
+      "status": 200,
+      "finalUrl": "https://m3.material.io/",
+      "title": "Material Design",
+      "verdict": "ok"
+    },
+    {
+      "key": "mathematics-for-machine-learning-book",
+      "url": "https://mml-book.github.io/",
+      "expect": "Mathematics for Machine Learning (book) — Cambridge University Press",
+      "status": 200,
+      "finalUrl": "https://mml-book.github.io/",
+      "title": "Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, an",
+      "verdict": "ok"
+    },
+    {
+      "key": "mdn-express-tutorial",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs",
+      "expect": "Express web framework (MDN tutorial) — MDN Web Docs",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs",
+      "title": "Express web framework (Node.js/JavaScript) - Learn web development | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "mdn-http",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+      "expect": "HTTP (MDN) — MDN Web Docs",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+      "title": "HTTP: Hypertext Transfer Protocol | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "mdn-javascript-guide",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+      "expect": "MDN JavaScript Guide — MDN Web Docs",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+      "title": "JavaScript Guide - JavaScript | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "mdn-learn-web-development",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+      "expect": "MDN: Learn web development — MDN Web Docs",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+      "title": "Learn web development | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "microservices-patterns",
+      "url": "https://microservices.io/patterns/",
+      "expect": "Microservice Architecture patterns — Chris Richardson",
+      "status": 200,
+      "finalUrl": "https://microservices.io/patterns/",
+      "title": "A pattern language for microservices",
+      "verdict": "ok"
+    },
+    {
+      "key": "microsoft-ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "expect": "AI Agents for Beginners (Microsoft) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://github.com/microsoft/ai-agents-for-beginners",
+      "title": "GitHub - microsoft/ai-agents-for-beginners: 18 Lessons to Get Started Building AI Agents · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "microsoft-applied-skills",
+      "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/",
+      "expect": "Microsoft Applied Skills — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/credentials/applied-skills/",
+      "title": "Microsoft Applied Skills | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "microsoft-entra-id-docs",
+      "url": "https://learn.microsoft.com/en-us/entra/identity/",
+      "expect": "Microsoft Entra ID documentation — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/entra/identity/",
+      "title": "Microsoft Entra ID documentation - Microsoft Entra ID | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "microsoft-generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "expect": "Generative AI for Beginners (Microsoft) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://github.com/microsoft/generative-ai-for-beginners",
+      "title": "GitHub - microsoft/generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "microsoft-ml-for-beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "expect": "ML for Beginners (Microsoft) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://github.com/microsoft/ML-For-Beginners",
+      "title": "GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "missing-semester",
+      "url": "https://missing.csail.mit.edu/",
+      "expect": "The Missing Semester of Your CS Education — MIT CSAIL",
+      "status": 200,
+      "finalUrl": "https://missing.csail.mit.edu/",
+      "title": "The Missing Semester of Your CS Education",
+      "verdict": "ok"
+    },
+    {
+      "key": "mit-18-06-linear-algebra",
+      "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+      "expect": "MIT 18.06 Linear Algebra (Gilbert Strang) — MIT OpenCourseWare",
+      "status": 200,
+      "finalUrl": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+      "title": "Linear Algebra | Mathematics | MIT OpenCourseWare",
+      "verdict": "ok"
+    },
+    {
+      "key": "mit-18-404-theory-of-computation",
+      "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+      "expect": "MIT 18.404J Theory of Computation (Fall 2020) — MIT OpenCourseWare",
+      "status": 200,
+      "finalUrl": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+      "title": "Theory of Computation | Mathematics | MIT OpenCourseWare",
+      "verdict": "ok"
+    },
+    {
+      "key": "mit-6-042-mathematics-for-cs",
+      "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/",
+      "expect": "MIT 6.042J Mathematics for Computer Science — MIT OpenCourseWare",
+      "status": 200,
+      "finalUrl": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/",
+      "title": "Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+      "verdict": "ok"
+    },
+    {
+      "key": "mit-6-5840-distributed-systems",
+      "url": "https://pdos.csail.mit.edu/6.824/",
+      "expect": "MIT 6.5840: Distributed Systems — MIT CSAIL",
+      "status": 200,
+      "finalUrl": "https://pdos.csail.mit.edu/6.824/",
+      "title": "6.5840 Home Page: Spring 2026",
+      "verdict": "ok"
+    },
+    {
+      "key": "mit-6006-spring-2020",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "expect": "MIT 6.006 Introduction to Algorithms (Spring 2020) — MIT OpenCourseWare",
+      "status": 200,
+      "finalUrl": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "title": "Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+      "verdict": "ok"
+    },
+    {
+      "key": "mit-6046-design-analysis-algorithms",
+      "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+      "expect": "MIT 6.046J Design and Analysis of Algorithms — MIT OpenCourseWare",
+      "status": 200,
+      "finalUrl": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+      "title": "Design and Analysis of Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+      "verdict": "ok"
+    },
+    {
+      "key": "ml-specialization-coursera",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "expect": "Machine Learning Specialization (Andrew Ng) — DeepLearning.AI & Stanford University (Coursera)",
+      "status": 200,
+      "finalUrl": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "title": "Machine Learning | Coursera",
+      "verdict": "ok"
+    },
+    {
+      "key": "mlflow-docs",
+      "url": "https://mlflow.org/docs/latest/",
+      "expect": "MLflow documentation — MLflow (Linux Foundation)",
+      "status": 200,
+      "finalUrl": "https://mlflow.org/docs/latest/",
+      "title": "MLflow Documentation | MLflow AI Platform",
+      "verdict": "ok"
+    },
+    {
+      "key": "mlops-zoomcamp",
+      "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+      "expect": "MLOps Zoomcamp — DataTalks.Club",
+      "status": 200,
+      "finalUrl": "https://github.com/DataTalksClub/mlops-zoomcamp",
+      "title": "GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "modern-c",
+      "url": "https://gustedt.gitlabpages.inria.fr/modern-c/",
+      "expect": "Modern C — Jens Gustedt",
+      "status": 200,
+      "finalUrl": "https://gustedt.gitlabpages.inria.fr/modern-c/",
+      "title": "Modern C",
+      "verdict": "ok"
+    },
+    {
+      "key": "mongodb-data-modeling",
+      "url": "https://www.mongodb.com/docs/manual/data-modeling/",
+      "expect": "Data modeling (MongoDB) — MongoDB",
+      "status": 200,
+      "finalUrl": "https://www.mongodb.com/docs/manual/data-modeling/",
+      "title": "Data Modeling in MongoDB - Database Manual - MongoDB Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "mongodb-manual",
+      "url": "https://www.mongodb.com/docs/manual/",
+      "expect": "MongoDB Manual — MongoDB",
+      "status": 200,
+      "finalUrl": "https://www.mongodb.com/docs/manual/",
+      "title": "What is MongoDB? An Overview of the Database - Database Manual - MongoDB Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "mongodb-university",
+      "url": "https://learn.mongodb.com/",
+      "expect": "MongoDB University — MongoDB",
+      "status": 200,
+      "finalUrl": "https://learn.mongodb.com/",
+      "title": "MongoDB Courses and Trainings | MongoDB University",
+      "verdict": "ok"
+    },
+    {
+      "key": "mooc-fi-java",
+      "url": "https://java-programming.mooc.fi/",
+      "expect": "Java Programming MOOC — University of Helsinki",
+      "status": 200,
+      "finalUrl": "https://java-programming.mooc.fi/",
+      "title": "About the course - Java Programming",
+      "verdict": "ok"
+    },
+    {
+      "key": "ms-api-design",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design",
+      "expect": "Web API design best practices — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design",
+      "title": "Web API Design Best Practices - Azure Architecture Center | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "ms-csharp-oop",
+      "url": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
+      "expect": "Object-oriented programming (C#) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
+      "title": "Object-Oriented Programming - C# | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "ms-database-normalization",
+      "url": "https://learn.microsoft.com/en-us/previous-versions/troubleshoot/microsoft-365/microsoft-365-apps/access/database-normalization-description",
+      "expect": "Description of the database normalization basics — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/previous-versions/troubleshoot/microsoft-365/microsoft-365-apps/access/database-normalization-description",
+      "title": "Database normalization description | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "ms-learn-csharp-path",
+      "url": "https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/",
+      "expect": "Get started with C# (Microsoft Learn path) — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/",
+      "title": "Write your first code using C# (Get started with C#, Part 1) - Training | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "ms-learn-describe-cloud-concepts",
+      "url": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/",
+      "expect": "Introduction to Cloud Infrastructure: Describe cloud concepts — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/",
+      "title": "Introduction to Cloud Infrastructure: Describe Cloud Concepts - Training | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "ms-learn-transact-sql",
+      "url": "https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
+      "expect": "Get started querying with Transact-SQL — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
+      "title": "Query and modify data with Transact-SQL - Training | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "mysql-reference-manual",
+      "url": "https://dev.mysql.com/doc/refman/8.4/en/",
+      "expect": "MySQL 8.4 Reference Manual — Oracle (MySQL)",
+      "status": 200,
+      "finalUrl": "https://dev.mysql.com/doc/refman/8.4/en/",
+      "title": "MySQL :: MySQL 8.4 Reference Manual",
+      "verdict": "ok"
+    },
+    {
+      "key": "mysql-tutorial",
+      "url": "https://dev.mysql.com/doc/refman/8.4/en/tutorial.html",
+      "expect": "MySQL tutorial (MySQL 8.4 Reference Manual) — Oracle (MySQL)",
+      "status": 200,
+      "finalUrl": "https://dev.mysql.com/doc/refman/8.4/en/tutorial.html",
+      "title": "MySQL :: MySQL 8.4 Reference Manual :: 5 Tutorial",
+      "verdict": "ok"
+    },
+    {
+      "key": "nana-docker-full-course",
+      "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+      "expect": "Docker Tutorial for Beginners (full course) — TechWorld with Nana",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+      "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+      "verdict": "ok",
+      "author": "TechWorld with Nana"
+    },
+    {
+      "key": "nana-kubernetes-full-course",
+      "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+      "expect": "Kubernetes Tutorial for Beginners (full course) — TechWorld with Nana",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=X48VuDVv0do",
+      "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]",
+      "verdict": "ok",
+      "author": "TechWorld with Nana"
+    },
+    {
+      "key": "nand2tetris",
+      "url": "https://www.nand2tetris.org/",
+      "expect": "Nand2Tetris: Build a Modern Computer from First Principles — Noam Nisan & Shimon Schocken",
+      "status": 200,
+      "finalUrl": "https://www.nand2tetris.org/",
+      "title": "Home | nand2tetris",
+      "verdict": "ok"
+    },
+    {
+      "key": "neetcode-roadmap",
+      "url": "https://neetcode.io/roadmap",
+      "expect": "NeetCode roadmap — NeetCode",
+      "status": 200,
+      "finalUrl": "https://neetcode.io/roadmap",
+      "title": "NeetCode | Coding Interview Prep, Courses, Versus Mode",
+      "verdict": "ok"
+    },
+    {
+      "key": "nextjs-deploying",
+      "url": "https://nextjs.org/docs/app/getting-started/deploying",
+      "expect": "Deploying a Next.js application — Vercel",
+      "status": 200,
+      "finalUrl": "https://nextjs.org/docs/app/getting-started/deploying",
+      "title": "Deploying",
+      "verdict": "ok"
+    },
+    {
+      "key": "nextjs-docs",
+      "url": "https://nextjs.org/docs",
+      "expect": "Next.js documentation — Vercel",
+      "status": 200,
+      "finalUrl": "https://nextjs.org/docs",
+      "title": "Next.js Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "nextjs-learn",
+      "url": "https://nextjs.org/learn",
+      "expect": "Next.js Learn course — Vercel",
+      "status": 200,
+      "finalUrl": "https://nextjs.org/learn",
+      "title": "Learn Next.js | Next.js by Vercel - The React Framework",
+      "verdict": "ok"
+    },
+    {
+      "key": "ninety-days-of-devops",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "expect": "90DaysOfDevOps — Michael Cade and contributors",
+      "status": 200,
+      "finalUrl": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "title": "GitHub - MichaelCade/90DaysOfDevOps: This repository started out as a learning in public project for myself and has now become a structured learning map for man",
+      "verdict": "ok"
+    },
+    {
+      "key": "nist-sp-800-145",
+      "url": "https://csrc.nist.gov/pubs/sp/800/145/final",
+      "expect": "The NIST Definition of Cloud Computing (SP 800-145) — National Institute of Standards and Technology",
+      "status": 200,
+      "finalUrl": "https://csrc.nist.gov/pubs/sp/800/145/final",
+      "title": "SP 800-145, The NIST Definition of Cloud Computing | CSRC",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-articles",
+      "url": "https://www.nngroup.com/articles/",
+      "expect": "Nielsen Norman Group articles — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/",
+      "title": "UX & Usability Articles from Nielsen Norman Group - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-design-systems-101",
+      "url": "https://www.nngroup.com/articles/design-systems-101/",
+      "expect": "Design Systems 101 — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/design-systems-101/",
+      "title": "Design Systems 101 - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-journey-mapping",
+      "url": "https://www.nngroup.com/articles/journey-mapping-101/",
+      "expect": "Journey Mapping 101 — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/journey-mapping-101/",
+      "title": "Journey Mapping 101 - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-personas",
+      "url": "https://www.nngroup.com/articles/persona/",
+      "expect": "Personas Make Users Memorable for Product Team Members — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/persona/",
+      "title": "Personas Make Users Memorable - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-prototype-fidelity",
+      "url": "https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/",
+      "expect": "UX Prototypes: Low Fidelity vs. High Fidelity — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/",
+      "title": "UX Prototypes: Low Fidelity vs. High Fidelity - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-ten-heuristics",
+      "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+      "expect": "10 Usability Heuristics for User Interface Design — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+      "title": "10 Usability Heuristics for User Interface Design - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-usability-testing-101",
+      "url": "https://www.nngroup.com/articles/usability-testing-101/",
+      "expect": "Usability Testing 101 — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/usability-testing-101/",
+      "title": "Usability (User) Testing 101 - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nngroup-user-interviews",
+      "url": "https://www.nngroup.com/articles/user-interviews/",
+      "expect": "User Interviews 101 — Nielsen Norman Group",
+      "status": 200,
+      "finalUrl": "https://www.nngroup.com/articles/user-interviews/",
+      "title": "User Interviews 101 - NN/G",
+      "verdict": "ok"
+    },
+    {
+      "key": "nodejs-api-docs",
+      "url": "https://nodejs.org/docs/latest/api/",
+      "expect": "Node.js API documentation — OpenJS Foundation (Node.js)",
+      "status": 200,
+      "finalUrl": "https://nodejs.org/docs/latest/api/",
+      "title": "Index | Node.js v26.13.1 Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "nodejs-best-practices",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "expect": "Node.js Best Practices — Yoni Goldberg and contributors",
+      "status": 200,
+      "finalUrl": "https://github.com/goldbergyoni/nodebestpractices",
+      "title": "GitHub - goldbergyoni/nodebestpractices: ✅ The Node.js best practices list (July 2026) · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "nodejs-learn",
+      "url": "https://nodejs.org/learn",
+      "expect": "Learn Node.js (nodejs.org) — OpenJS Foundation (Node.js)",
+      "status": 200,
+      "finalUrl": "https://nodejs.org/learn",
+      "title": "Learn Node.js | Node.js Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "numpy-absolute-beginners",
+      "url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+      "expect": "NumPy: the absolute basics for beginners — NumPy",
+      "status": 200,
+      "finalUrl": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+      "title": "NumPy: the absolute basics for beginners — NumPy v2.5 Manual",
+      "verdict": "ok"
+    },
+    {
+      "key": "oauth-2",
+      "url": "https://oauth.net/2/",
+      "expect": "OAuth 2.0 (oauth.net) — oauth.net",
+      "status": 200,
+      "finalUrl": "https://oauth.net/2/",
+      "title": "OAuth 2.0 &mdash; OAuth",
+      "verdict": "ok"
+    },
+    {
+      "key": "open-data-structures",
+      "url": "https://opendatastructures.org/",
+      "expect": "Open Data Structures — Pat Morin",
+      "status": 200,
+      "finalUrl": "https://opendatastructures.org/",
+      "title": "Open Data Structures",
+      "verdict": "ok"
+    },
+    {
+      "key": "openai-evals",
+      "url": "https://github.com/openai/evals",
+      "expect": "OpenAI Evals — OpenAI",
+      "status": 200,
+      "finalUrl": "https://github.com/openai/evals",
+      "title": "GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "opentelemetry-what-is",
+      "url": "https://opentelemetry.io/docs/what-is-opentelemetry/",
+      "expect": "What is OpenTelemetry? — OpenTelemetry (CNCF)",
+      "status": 200,
+      "finalUrl": "https://opentelemetry.io/docs/what-is-opentelemetry/",
+      "title": "What is OpenTelemetry? | OpenTelemetry",
+      "verdict": "ok"
+    },
+    {
+      "key": "ossu-computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "expect": "OSSU Computer Science curriculum — Open Source Society University",
+      "status": 200,
+      "finalUrl": "https://github.com/ossu/computer-science",
+      "title": "GitHub - ossu/computer-science: 🎓 Path to a free self-taught education in Computer Science! · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "ostep",
+      "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "expect": "Operating Systems: Three Easy Pieces — University of Wisconsin–Madison",
+      "status": 200,
+      "finalUrl": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "title": "Operating Systems: Three Easy Pieces",
+      "verdict": "ok"
+    },
+    {
+      "key": "overthewire-bandit",
+      "url": "https://overthewire.org/wargames/bandit/",
+      "expect": "OverTheWire: Bandit — OverTheWire",
+      "status": 200,
+      "finalUrl": "https://overthewire.org/wargames/bandit/",
+      "title": "OverTheWire: Bandit",
+      "verdict": "ok"
+    },
+    {
+      "key": "owasp-api-top-10",
+      "url": "https://api-security.owasp.org/editions/2023/en/0x11-t10/",
+      "expect": "OWASP API Security Top 10 (2023) — OWASP Foundation",
+      "status": 200,
+      "finalUrl": "https://api-security.owasp.org/editions/2023/en/0x11-t10/",
+      "title": "OWASP Top 10 API Security Risks – 2023 - OWASP API Security Top 10",
+      "verdict": "ok"
+    },
+    {
+      "key": "owasp-password-storage",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html",
+      "expect": "OWASP Password Storage Cheat Sheet — OWASP Foundation",
+      "status": 200,
+      "finalUrl": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html",
+      "title": "Password Storage - OWASP Cheat Sheet Series",
+      "verdict": "ok"
+    },
+    {
+      "key": "owasp-sql-injection-prevention",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html",
+      "expect": "OWASP SQL Injection Prevention Cheat Sheet — OWASP Foundation",
+      "status": 200,
+      "finalUrl": "https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html",
+      "title": "SQL Injection Prevention - OWASP Cheat Sheet Series",
+      "verdict": "ok"
+    },
+    {
+      "key": "owasp-top-ten",
+      "url": "https://owasp.org/projects/top-ten",
+      "expect": "OWASP Top Ten — OWASP Foundation",
+      "status": 200,
+      "finalUrl": "https://owasp.org/projects/top-ten",
+      "title": "OWASP Top 10 | OWASP Foundation",
+      "verdict": "ok"
+    },
+    {
+      "key": "pact-docs",
+      "url": "https://docs.pact.io/",
+      "expect": "Pact: consumer-driven contract testing — Pact Foundation",
+      "status": 200,
+      "finalUrl": "https://docs.pact.io/",
+      "title": "Introduction | Pact Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "pandas-getting-started",
+      "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+      "expect": "pandas: Getting started — pandas",
+      "status": 200,
+      "finalUrl": "https://pandas.pydata.org/docs/getting_started/index.html",
+      "title": "Getting started — pandas 3.1.1 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "patterns-dev",
+      "url": "https://www.patterns.dev/",
+      "expect": "Patterns.dev — Lydia Hallie & Addy Osmani",
+      "status": 200,
+      "finalUrl": "https://www.patterns.dev/",
+      "title": "Patterns.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "pg-exercises",
+      "url": "https://pgexercises.com/",
+      "expect": "PostgreSQL Exercises — Alisdair Owens",
+      "status": 200,
+      "finalUrl": "https://pgexercises.com/",
+      "title": "PostgreSQL Exercises",
+      "verdict": "ok"
+    },
+    {
+      "key": "pinecone-what-is-rag",
+      "url": "https://www.pinecone.io/learn/retrieval-augmented-generation/",
+      "expect": "Retrieval-Augmented Generation (Pinecone Learn) — Pinecone",
+      "status": 200,
+      "finalUrl": "https://www.pinecone.io/learn/retrieval-augmented-generation/",
+      "title": "Retrieval-Augmented Generation (RAG) | Pinecone",
+      "verdict": "ok"
+    },
+    {
+      "key": "playwright-docs",
+      "url": "https://playwright.dev/docs/intro",
+      "expect": "Playwright: Getting started — Microsoft (Playwright)",
+      "status": 200,
+      "finalUrl": "https://playwright.dev/docs/intro",
+      "title": "Installation | Playwright",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-backup-restore",
+      "url": "https://www.postgresql.org/docs/current/backup.html",
+      "expect": "Backup and restore (PostgreSQL) — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/backup.html",
+      "title": "PostgreSQL: Documentation: 19: Chapter 25. Backup and Restore",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-concurrency-control",
+      "url": "https://www.postgresql.org/docs/current/mvcc.html",
+      "expect": "Concurrency control and MVCC (PostgreSQL) — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/mvcc.html",
+      "title": "PostgreSQL: Documentation: 19: Chapter 13. Concurrency Control",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-docs",
+      "url": "https://www.postgresql.org/docs/current/",
+      "expect": "PostgreSQL documentation — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/",
+      "title": "PostgreSQL: Documentation: 19: PostgreSQL 19.0 Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-high-availability",
+      "url": "https://www.postgresql.org/docs/current/high-availability.html",
+      "expect": "High availability, load balancing and replication (PostgreSQL) — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/high-availability.html",
+      "title": "PostgreSQL: Documentation: 19: Chapter 26. High Availability, Load Balancing, and Replication",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-indexes",
+      "url": "https://www.postgresql.org/docs/current/indexes.html",
+      "expect": "Indexes (PostgreSQL) — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/indexes.html",
+      "title": "PostgreSQL: Documentation: 19: Chapter 11. Indexes",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-roles",
+      "url": "https://www.postgresql.org/docs/current/user-manag.html",
+      "expect": "Database roles and privileges (PostgreSQL) — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/user-manag.html",
+      "title": "PostgreSQL: Documentation: 19: Chapter 21. Database Roles",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-tutorial-official",
+      "url": "https://www.postgresql.org/docs/current/tutorial.html",
+      "expect": "PostgreSQL tutorial (official) — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/tutorial.html",
+      "title": "PostgreSQL: Documentation: 19: Part I. Tutorial",
+      "verdict": "ok"
+    },
+    {
+      "key": "postgresql-using-explain",
+      "url": "https://www.postgresql.org/docs/current/using-explain.html",
+      "expect": "Using EXPLAIN (PostgreSQL) — PostgreSQL Global Development Group",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/current/using-explain.html",
+      "title": "PostgreSQL: Documentation: 19: 14.1. Using EXPLAIN",
+      "verdict": "ok"
+    },
+    {
+      "key": "postman-learning-center",
+      "url": "https://learning.postman.com/docs/getting-started/overview/",
+      "expect": "Postman Learning Center — Postman",
+      "status": 200,
+      "finalUrl": "https://learning.postman.com/docs/getting-started/overview/",
+      "title": "Get started in Postman | Postman Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "practical-test-pyramid",
+      "url": "https://martinfowler.com/articles/practical-test-pyramid.html",
+      "expect": "The Practical Test Pyramid — Martin Fowler",
+      "status": 200,
+      "finalUrl": "https://martinfowler.com/articles/practical-test-pyramid.html",
+      "title": "The Practical Test Pyramid",
+      "verdict": "ok"
+    },
+    {
+      "key": "practical-typography",
+      "url": "https://practicaltypography.com/",
+      "expect": "Butterick's Practical Typography — Matthew Butterick",
+      "status": 200,
+      "finalUrl": "https://practicaltypography.com/",
+      "title": "Butterick’s Practical Typography",
+      "verdict": "ok"
+    },
+    {
+      "key": "pro-git",
+      "url": "https://git-scm.com/book/en/v2",
+      "expect": "Pro Git (2nd edition) — Git project (Scott Chacon & Ben Straub)",
+      "status": 200,
+      "finalUrl": "https://git-scm.com/book/en/v2",
+      "title": "Git",
+      "verdict": "ok"
+    },
+    {
+      "key": "prometheus-getting-started",
+      "url": "https://prometheus.io/docs/prometheus/latest/getting_started/",
+      "expect": "Prometheus: Getting started — Prometheus (CNCF)",
+      "status": 200,
+      "finalUrl": "https://prometheus.io/docs/prometheus/latest/getting_started/",
+      "title": "Getting started | Prometheus",
+      "verdict": "ok"
+    },
+    {
+      "key": "promql-basics",
+      "url": "https://prometheus.io/docs/prometheus/latest/querying/basics/",
+      "expect": "Querying Prometheus (PromQL basics) — Prometheus (CNCF)",
+      "status": 200,
+      "finalUrl": "https://prometheus.io/docs/prometheus/latest/querying/basics/",
+      "title": "Querying basics | Prometheus",
+      "verdict": "ok"
+    },
+    {
+      "key": "python-data-science-handbook",
+      "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "expect": "Python Data Science Handbook — Jake VanderPlas",
+      "status": 200,
+      "finalUrl": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "title": "Python Data Science Handbook | Python Data Science Handbook",
+      "verdict": "ok"
+    },
+    {
+      "key": "python-official-tutorial",
+      "url": "https://docs.python.org/3/tutorial/",
+      "expect": "The Python Tutorial — Python Software Foundation",
+      "status": 200,
+      "finalUrl": "https://docs.python.org/3/tutorial/",
+      "title": "The Python Tutorial — Python 3.15.2 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "python-packaging-guide",
+      "url": "https://packaging.python.org/en/latest/",
+      "expect": "Python Packaging User Guide — Python Packaging Authority",
+      "status": 200,
+      "finalUrl": "https://packaging.python.org/en/latest/",
+      "title": "Python Packaging User Guide",
+      "verdict": "ok"
+    },
+    {
+      "key": "python-standard-library",
+      "url": "https://docs.python.org/3/library/",
+      "expect": "The Python Standard Library reference — Python Software Foundation",
+      "status": 200,
+      "finalUrl": "https://docs.python.org/3/library/",
+      "title": "The Python standard library — Python 3.15.2 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "pytorch-learn-the-basics",
+      "url": "https://docs.pytorch.org/tutorials/beginner/basics/intro.html",
+      "expect": "Learn the Basics (PyTorch tutorials) — PyTorch Foundation",
+      "status": 200,
+      "finalUrl": "https://docs.pytorch.org/tutorials/beginner/basics/intro.html",
+      "title": "Learn the Basics — PyTorch Tutorials 2.15.0+cu132 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "pytorch-tutorials",
+      "url": "https://docs.pytorch.org/tutorials/",
+      "expect": "PyTorch tutorials — PyTorch Foundation",
+      "status": 200,
+      "finalUrl": "https://docs.pytorch.org/tutorials/",
+      "title": "Welcome to PyTorch Tutorials — PyTorch Tutorials 2.15.0+cu132 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "rabbitmq-tutorials",
+      "url": "https://www.rabbitmq.com/tutorials",
+      "expect": "RabbitMQ tutorials — RabbitMQ team",
+      "status": 200,
+      "finalUrl": "https://www.rabbitmq.com/tutorials",
+      "title": "RabbitMQ Tutorials | RabbitMQ",
+      "verdict": "ok"
+    },
+    {
+      "key": "raft-consensus",
+      "url": "https://raft.github.io/",
+      "expect": "The Raft Consensus Algorithm — Diego Ongaro & John Ousterhout",
+      "status": 200,
+      "finalUrl": "https://raft.github.io/",
+      "title": "Raft Consensus Algorithm",
+      "verdict": "ok"
+    },
+    {
+      "key": "rag-paper",
+      "url": "https://arxiv.org/abs/2005.11401",
+      "expect": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks — Facebook AI Research (arXiv)",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/2005.11401",
+      "title": "[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "verdict": "ok"
+    },
+    {
+      "key": "react-learn",
+      "url": "https://react.dev/learn",
+      "expect": "Learn React (react.dev) — Meta (React team)",
+      "status": 200,
+      "finalUrl": "https://react.dev/learn",
+      "title": "Quick Start – React",
+      "verdict": "ok"
+    },
+    {
+      "key": "react-managing-state",
+      "url": "https://react.dev/learn/managing-state",
+      "expect": "Managing State (react.dev) — Meta (React team)",
+      "status": 200,
+      "finalUrl": "https://react.dev/learn/managing-state",
+      "title": "Managing State – React",
+      "verdict": "ok"
+    },
+    {
+      "key": "react-native-getting-started",
+      "url": "https://reactnative.dev/docs/getting-started",
+      "expect": "React Native: Introduction — Meta (React Native)",
+      "status": 200,
+      "finalUrl": "https://reactnative.dev/docs/getting-started",
+      "title": "Introduction · React Native",
+      "verdict": "ok"
+    },
+    {
+      "key": "react-reference",
+      "url": "https://react.dev/reference/react",
+      "expect": "React API reference — Meta (React team)",
+      "status": 200,
+      "finalUrl": "https://react.dev/reference/react",
+      "title": "React Reference Overview – React",
+      "verdict": "ok"
+    },
+    {
+      "key": "react-thinking-in-react",
+      "url": "https://react.dev/learn/thinking-in-react",
+      "expect": "Thinking in React — Meta (React team)",
+      "status": 200,
+      "finalUrl": "https://react.dev/learn/thinking-in-react",
+      "title": "Thinking in React – React",
+      "verdict": "ok"
+    },
+    {
+      "key": "redis-university",
+      "url": "https://university.redis.io/",
+      "expect": "Redis University — Redis",
+      "status": 200,
+      "finalUrl": "https://university.redis.io/",
+      "title": "Flockjay",
+      "verdict": "ok"
+    },
+    {
+      "key": "redux-essentials",
+      "url": "https://redux.js.org/tutorials/essentials/part-1-overview-concepts",
+      "expect": "Redux Essentials tutorial — Redux maintainers",
+      "status": 200,
+      "finalUrl": "https://redux.js.org/tutorials/essentials/part-1-overview-concepts",
+      "title": "Redux Essentials, Part 1: Redux Overview and Concepts | Redux",
+      "verdict": "ok"
+    },
+    {
+      "key": "refactoring-ui",
+      "url": "https://refactoringui.com/",
+      "expect": "Refactoring UI — Adam Wathan & Steve Schoger",
+      "status": 200,
+      "finalUrl": "https://refactoringui.com/",
+      "title": "Refactoring UI",
+      "verdict": "ok"
+    },
+    {
+      "key": "roadmap-sh-devops",
+      "url": "https://roadmap.sh/devops",
+      "expect": "DevOps roadmap (roadmap.sh) — roadmap.sh",
+      "status": 200,
+      "finalUrl": "https://roadmap.sh/devops",
+      "title": "DevOps Roadmap: Learn to become a DevOps Engineer or SRE",
+      "verdict": "ok"
+    },
+    {
+      "key": "scikit-learn-model-evaluation",
+      "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+      "expect": "Metrics and scoring: quantifying the quality of predictions — scikit-learn developers",
+      "status": 200,
+      "finalUrl": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+      "title": "3.4. Metrics and scoring: quantifying the quality of predictions — scikit-learn 1.9.1 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "scikit-learn-user-guide",
+      "url": "https://scikit-learn.org/stable/user_guide.html",
+      "expect": "scikit-learn User Guide — scikit-learn developers",
+      "status": 200,
+      "finalUrl": "https://scikit-learn.org/stable/user_guide.html",
+      "title": "User Guide — scikit-learn 1.9.1 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "scrum-guide",
+      "url": "https://scrumguides.org/scrum-guide.html",
+      "expect": "The Scrum Guide — Ken Schwaber & Jeff Sutherland",
+      "status": 200,
+      "finalUrl": "https://scrumguides.org/scrum-guide.html",
+      "title": "Scrum Guide | Scrum Guides",
+      "verdict": "ok"
+    },
+    {
+      "key": "shellcheck",
+      "url": "https://www.shellcheck.net/",
+      "expect": "ShellCheck — ShellCheck",
+      "status": 200,
+      "finalUrl": "https://www.shellcheck.net/",
+      "title": "ShellCheck &ndash; shell script analysis tool",
+      "verdict": "ok"
+    },
+    {
+      "key": "software-engineering-at-google",
+      "url": "https://abseil.io/resources/swe-book",
+      "expect": "Software Engineering at Google — Google (Winters, Manshreck & Wright)",
+      "status": 200,
+      "finalUrl": "https://abseil.io/resources/swe-book",
+      "title": "abseil / Software Engineering at Google",
+      "verdict": "ok"
+    },
+    {
+      "key": "sqlbolt",
+      "url": "https://sqlbolt.com/",
+      "expect": "SQLBolt — SQLBolt",
+      "status": 200,
+      "finalUrl": "https://sqlbolt.com/",
+      "title": "SQLBolt - Learn SQL - Introduction to SQL",
+      "verdict": "ok"
+    },
+    {
+      "key": "sqlzoo",
+      "url": "https://sqlzoo.net/wiki/SQL_Tutorial",
+      "expect": "SQLZoo — SQLZoo",
+      "status": 200,
+      "finalUrl": "https://sqlzoo.net/wiki/SQL_Tutorial",
+      "title": "SQLZoo",
+      "verdict": "ok"
+    },
+    {
+      "key": "sre-workbook-implementing-slos",
+      "url": "https://sre.google/workbook/implementing-slos/",
+      "expect": "Implementing SLOs (The Site Reliability Workbook) — Google",
+      "status": 200,
+      "finalUrl": "https://sre.google/workbook/implementing-slos/",
+      "title": "Google SRE - Continuous Improvement To Get Reliability",
+      "verdict": "ok"
+    },
+    {
+      "key": "stanford-cs143",
+      "url": "https://web.stanford.edu/class/cs143/",
+      "expect": "Stanford CS143: Compilers — Stanford University",
+      "status": 200,
+      "finalUrl": "https://web.stanford.edu/class/cs143/",
+      "title": "CS143: Compilers",
+      "verdict": "ok"
+    },
+    {
+      "key": "stanford-cs193p",
+      "url": "https://cs193p.stanford.edu/",
+      "expect": "Stanford CS193p: Developing Apps for iOS — Stanford University",
+      "status": 200,
+      "finalUrl": "https://cs193p.stanford.edu/",
+      "title": "CS193p - Developing Apps for iOS",
+      "verdict": "ok"
+    },
+    {
+      "key": "stanford-cs224n",
+      "url": "https://web.stanford.edu/class/cs224n/",
+      "expect": "Stanford CS224N: NLP with Deep Learning — Stanford University",
+      "status": 200,
+      "finalUrl": "https://web.stanford.edu/class/cs224n/",
+      "title": "Stanford CS 224N | Natural Language Processing with Deep Learning",
+      "verdict": "ok"
+    },
+    {
+      "key": "stanford-cs229",
+      "url": "https://cs229.stanford.edu/",
+      "expect": "Stanford CS229: Machine Learning — Stanford University",
+      "status": 200,
+      "finalUrl": "https://cs229.stanford.edu/",
+      "title": "CS229: Machine Learning",
+      "verdict": "ok"
+    },
+    {
+      "key": "stanford-cs231n",
+      "url": "https://cs231n.stanford.edu/",
+      "expect": "Stanford CS231n: Deep Learning for Computer Vision — Stanford University",
+      "status": 200,
+      "finalUrl": "https://cs231n.stanford.edu/",
+      "title": "Stanford University CS231n: Deep Learning for Computer Vision",
+      "verdict": "ok"
+    },
+    {
+      "key": "statquest-machine-learning",
+      "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+      "expect": "Machine Learning (StatQuest with Josh Starmer) — StatQuest with Josh Starmer",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+      "title": "Machine Learning",
+      "verdict": "ok",
+      "author": "StatQuest with Josh Starmer"
+    },
+    {
+      "key": "swift-programming-language-book",
+      "url": "https://docs.swift.org/latest/documentation/the-swift-programming-language/",
+      "expect": "The Swift Programming Language — Apple (Swift.org)",
+      "status": 200,
+      "finalUrl": "https://docs.swift.org/latest/documentation/the-swift-programming-language/",
+      "title": "Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "swift-testing-documentation",
+      "url": "https://developer.apple.com/documentation/testing",
+      "expect": "Swift Testing documentation — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/documentation/testing",
+      "title": "Swift Testing | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "swiftdata-documentation",
+      "url": "https://developer.apple.com/documentation/swiftdata",
+      "expect": "SwiftData documentation — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/documentation/swiftdata",
+      "title": "SwiftData | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "swiftui-tutorials",
+      "url": "https://developer.apple.com/tutorials/swiftui",
+      "expect": "SwiftUI tutorials — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/tutorials/swiftui",
+      "title": "Introducing SwiftUI | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "expect": "The System Design Primer — Donne Martin",
+      "status": 200,
+      "finalUrl": "https://github.com/donnemartin/system-design-primer",
+      "title": "GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "tanstack-query-docs",
+      "url": "https://tanstack.com/query/latest/docs/framework/react/overview",
+      "expect": "TanStack Query documentation — TanStack",
+      "status": 200,
+      "finalUrl": "https://tanstack.com/query/latest/docs/framework/react/overview",
+      "title": "Overview | TanStack Query React Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "teach-yourself-cs",
+      "url": "https://teachyourselfcs.com/",
+      "expect": "Teach Yourself Computer Science — Oz Nova & Myles Byrne",
+      "status": 200,
+      "finalUrl": "https://teachyourselfcs.com/",
+      "title": "Teach Yourself Computer Science",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:android",
+      "url": "https://developer.android.com/",
+      "expect": "Android Development official site",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/?auto_signin=false",
+      "title": "Android Mobile App Developer Tools - Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:ansible",
+      "url": "https://docs.ansible.com/",
+      "expect": "Ansible official site",
+      "status": 200,
+      "finalUrl": "https://docs.ansible.com/",
+      "title": "Ansible Community | Ansible documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:api-security",
+      "url": "https://api-security.owasp.org/",
+      "expect": "API Security official site",
+      "status": 200,
+      "finalUrl": "https://api-security.owasp.org/",
+      "title": "OWASP API Security Top 10 - OWASP API Security Top 10",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:authentication",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html",
+      "expect": "Authentication & Authorization official site",
+      "status": 200,
+      "finalUrl": "https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html",
+      "title": "Authentication - OWASP Cheat Sheet Series",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:aws",
+      "url": "https://docs.aws.amazon.com/",
+      "expect": "Amazon Web Services official site",
+      "status": 200,
+      "finalUrl": "https://docs.aws.amazon.com/",
+      "title": null,
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:azure",
+      "url": "https://learn.microsoft.com/en-us/azure/",
+      "expect": "Microsoft Azure official site",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/azure/",
+      "title": "Azure documentation | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:bash",
+      "url": "https://www.gnu.org/software/bash/manual/",
+      "expect": "Bash Scripting official site",
+      "status": 200,
+      "finalUrl": "https://www.gnu.org/software/bash/manual/",
+      "title": "GNU Bash manual - GNU Project - Free Software Foundation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:c",
+      "url": "https://www.open-std.org/jtc1/sc22/wg14/",
+      "expect": "C official site",
+      "status": 200,
+      "finalUrl": "https://www.open-std.org/jtc1/sc22/wg14/",
+      "title": "ISO/IEC JTC1/SC22/WG14 - C",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:caching",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+      "expect": "Caching official site",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+      "title": "HTTP caching - HTTP | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:cloud-cost-management",
+      "url": "https://www.finops.org/",
+      "expect": "Cloud Cost Management official site",
+      "status": 200,
+      "finalUrl": "https://www.finops.org/",
+      "title": "The FinOps Foundation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:cpp",
+      "url": "https://isocpp.org/",
+      "expect": "C++ official site",
+      "status": 200,
+      "finalUrl": "https://isocpp.org/",
+      "title": "Standard C++",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:csharp",
+      "url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+      "expect": "C# official site",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+      "title": "C# Guide - .NET managed language - C# | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:css",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "expect": "CSS official site",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "title": "CSS: Cascading Style Sheets | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:dart",
+      "url": "https://dart.dev/",
+      "expect": "Dart official site",
+      "status": 200,
+      "finalUrl": "https://dart.dev/",
+      "title": "Dart programming language",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:design-patterns",
+      "url": "https://refactoring.guru/design-patterns",
+      "expect": "Design Patterns official site",
+      "status": 200,
+      "finalUrl": "https://refactoring.guru/design-patterns",
+      "title": "Design Patterns",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:docker",
+      "url": "https://docs.docker.com/",
+      "expect": "Docker official site",
+      "status": 200,
+      "finalUrl": "https://docs.docker.com/",
+      "title": "Docker Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:expo",
+      "url": "https://docs.expo.dev/",
+      "expect": "Expo official site",
+      "status": 200,
+      "finalUrl": "https://docs.expo.dev/",
+      "title": "Expo documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:express",
+      "url": "https://expressjs.com/",
+      "expect": "Express.js official site",
+      "status": 200,
+      "finalUrl": "https://expressjs.com/",
+      "title": "Express.js · Node.js web application framework",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:figma",
+      "url": "https://help.figma.com/hc/en-us",
+      "expect": "Figma official site",
+      "status": 200,
+      "finalUrl": "https://help.figma.com/hc/en-us",
+      "title": "Figma Learn - Help Center",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:flutter",
+      "url": "https://docs.flutter.dev/",
+      "expect": "Flutter official site",
+      "status": 200,
+      "finalUrl": "https://docs.flutter.dev/",
+      "title": "Flutter documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:frontend-testing",
+      "url": "https://testing-library.com/",
+      "expect": "Frontend Testing official site",
+      "status": 200,
+      "finalUrl": "https://testing-library.com/",
+      "title": "Testing Library | Testing Library",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:gcp",
+      "url": "https://docs.cloud.google.com/docs",
+      "expect": "Google Cloud official site",
+      "status": 200,
+      "finalUrl": "https://docs.cloud.google.com/docs",
+      "title": "Google Cloud Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:git",
+      "url": "https://git-scm.com/",
+      "expect": "Git official site",
+      "status": 200,
+      "finalUrl": "https://git-scm.com/",
+      "title": "Git",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:github",
+      "url": "https://docs.github.com/en",
+      "expect": "GitHub official site",
+      "status": 200,
+      "finalUrl": "https://docs.github.com/en",
+      "title": "GitHub Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:github-actions",
+      "url": "https://docs.github.com/en/actions",
+      "expect": "GitHub Actions official site",
+      "status": 200,
+      "finalUrl": "https://docs.github.com/en/actions",
+      "title": "GitHub Actions documentation - GitHub Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:go",
+      "url": "https://go.dev/",
+      "expect": "Go official site",
+      "status": 200,
+      "finalUrl": "https://go.dev/",
+      "title": "The Go Programming Language",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:grafana",
+      "url": "https://grafana.com/docs/grafana/latest/",
+      "expect": "Grafana official site",
+      "status": 200,
+      "finalUrl": "https://grafana.com/docs/grafana/latest/",
+      "title": "Grafana OSS and Enterprise | Grafana documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:graphql",
+      "url": "https://graphql.org/",
+      "expect": "GraphQL official site",
+      "status": 200,
+      "finalUrl": "https://graphql.org/",
+      "title": "GraphQL | The API language for humans and agents",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:html",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+      "expect": "HTML official site",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+      "title": "HTML: HyperText Markup Language | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:ios",
+      "url": "https://developer.apple.com/documentation/",
+      "expect": "iOS Development official site",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/documentation/",
+      "title": "Featured | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:java",
+      "url": "https://dev.java/",
+      "expect": "Java official site",
+      "status": 200,
+      "finalUrl": "https://dev.java/",
+      "title": "Dev.java: The Destination for Java Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:javascript",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "expect": "JavaScript official site",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "title": "JavaScript | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:jenkins",
+      "url": "https://www.jenkins.io/",
+      "expect": "Jenkins official site",
+      "status": 200,
+      "finalUrl": "https://www.jenkins.io/",
+      "title": "Jenkins",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:jetpack-compose",
+      "url": "https://developer.android.com/compose",
+      "expect": "Jetpack Compose official site",
+      "status": 200,
+      "finalUrl": "https://developer.android.com/compose?auto_signin=false",
+      "title": "Jetpack Compose UI App Development Toolkit - Android Developers",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:kotlin",
+      "url": "https://kotlinlang.org/",
+      "expect": "Kotlin official site",
+      "status": 200,
+      "finalUrl": "https://kotlinlang.org/",
+      "title": "Kotlin Programming Language",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:kubernetes",
+      "url": "https://kubernetes.io/docs/home/",
+      "expect": "Kubernetes official site",
+      "status": 200,
+      "finalUrl": "https://kubernetes.io/docs/home/",
+      "title": "Kubernetes Documentation | Kubernetes",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:linux",
+      "url": "https://www.kernel.org/",
+      "expect": "Linux official site",
+      "status": 200,
+      "finalUrl": "https://www.kernel.org/",
+      "title": "The Linux Kernel Archives",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:microservices",
+      "url": "https://microservices.io/",
+      "expect": "Microservices official site",
+      "status": 200,
+      "finalUrl": "https://microservices.io/",
+      "title": "What are microservices?",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:mongodb",
+      "url": "https://www.mongodb.com/docs/",
+      "expect": "MongoDB official site",
+      "status": 200,
+      "finalUrl": "https://www.mongodb.com/docs/",
+      "title": "Welcome to the MongoDB Docs - MongoDB Documentation - MongoDB Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:mysql",
+      "url": "https://dev.mysql.com/doc/",
+      "expect": "MySQL official site",
+      "status": 200,
+      "finalUrl": "https://dev.mysql.com/doc/",
+      "title": "MySQL :: MySQL Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:nextjs",
+      "url": "https://nextjs.org/",
+      "expect": "Next.js official site",
+      "status": 200,
+      "finalUrl": "https://nextjs.org/",
+      "title": "Next.js by Vercel - The React Framework",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:nodejs",
+      "url": "https://nodejs.org/en",
+      "expect": "Node.js official site",
+      "status": 200,
+      "finalUrl": "https://nodejs.org/en",
+      "title": "Node.js — Run JavaScript Everywhere",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:numpy",
+      "url": "https://numpy.org/doc/stable/",
+      "expect": "NumPy official site",
+      "status": 200,
+      "finalUrl": "https://numpy.org/doc/stable/",
+      "title": "NumPy documentation — NumPy v2.5 Manual",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:observability",
+      "url": "https://opentelemetry.io/docs/",
+      "expect": "Monitoring & Logging official site",
+      "status": 200,
+      "finalUrl": "https://opentelemetry.io/docs/",
+      "title": "Documentation | OpenTelemetry",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:pandas",
+      "url": "https://pandas.pydata.org/docs/",
+      "expect": "pandas official site",
+      "status": 200,
+      "finalUrl": "https://pandas.pydata.org/docs/",
+      "title": "pandas documentation — pandas 3.1.1 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:postgresql",
+      "url": "https://www.postgresql.org/docs/",
+      "expect": "PostgreSQL official site",
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/docs/",
+      "title": "PostgreSQL: Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:prometheus",
+      "url": "https://prometheus.io/docs/introduction/overview/",
+      "expect": "Prometheus official site",
+      "status": 200,
+      "finalUrl": "https://prometheus.io/docs/introduction/overview/",
+      "title": "Overview | Prometheus",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:python",
+      "url": "https://docs.python.org/3/",
+      "expect": "Python official site",
+      "status": 200,
+      "finalUrl": "https://docs.python.org/3/",
+      "title": "Python 3.15.2 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:pytorch",
+      "url": "https://docs.pytorch.org/docs/stable/index.html",
+      "expect": "PyTorch official site",
+      "status": 200,
+      "finalUrl": "https://docs.pytorch.org/docs/stable/index.html",
+      "title": "Redirecting&hellip;",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:react",
+      "url": "https://react.dev/",
+      "expect": "React official site",
+      "status": 200,
+      "finalUrl": "https://react.dev/",
+      "title": "React",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:react-native",
+      "url": "https://reactnative.dev/",
+      "expect": "React Native official site",
+      "status": 200,
+      "finalUrl": "https://reactnative.dev/",
+      "title": "React Native · Learn once, write anywhere",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:redis",
+      "url": "https://redis.io/docs/latest/",
+      "expect": "Redis official site",
+      "status": 200,
+      "finalUrl": "https://redis.io/docs/latest/",
+      "title": "Docs",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:responsive-design",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+      "expect": "Responsive Design official site",
+      "status": 200,
+      "finalUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+      "title": "Responsive web design - Learn web development | MDN",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:rest-apis",
+      "url": "https://openapis.org/",
+      "expect": "REST APIs official site",
+      "status": 200,
+      "finalUrl": "https://openapis.org/",
+      "title": "OpenAPI Initiative",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:scikit-learn",
+      "url": "https://scikit-learn.org/stable/",
+      "expect": "scikit-learn official site",
+      "status": 200,
+      "finalUrl": "https://scikit-learn.org/stable/",
+      "title": "scikit-learn: machine learning in Python — scikit-learn 1.9.1 documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:sql-server",
+      "url": "https://learn.microsoft.com/en-us/sql/sql-server/",
+      "expect": "Microsoft SQL Server official site",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17",
+      "title": "SQL Server Technical Documentation - SQL Server | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:swift",
+      "url": "https://www.swift.org/",
+      "expect": "Swift official site",
+      "status": 200,
+      "finalUrl": "https://www.swift.org/",
+      "title": "Swift Programming Language",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:swiftui",
+      "url": "https://developer.apple.com/xcode/swiftui/",
+      "expect": "SwiftUI official site",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/xcode/swiftui/",
+      "title": "Page Not Found - Apple Developer",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:tensorflow",
+      "url": "https://www.tensorflow.org/",
+      "expect": "TensorFlow official site",
+      "status": 200,
+      "finalUrl": "https://www.tensorflow.org/?auto_signin=false",
+      "title": "TensorFlow",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:terraform",
+      "url": "https://developer.hashicorp.com/terraform",
+      "expect": "Terraform official site",
+      "status": 200,
+      "finalUrl": "https://developer.hashicorp.com/terraform",
+      "title": "Terraform | HashiCorp Developer",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:typescript",
+      "url": "https://www.typescriptlang.org/",
+      "expect": "TypeScript official site",
+      "status": 200,
+      "finalUrl": "https://www.typescriptlang.org/",
+      "title": "TypeScript: JavaScript With Syntax For Types.",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:uikit",
+      "url": "https://developer.apple.com/documentation/uikit",
+      "expect": "UIKit official site",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/documentation/uikit",
+      "title": "UIKit | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "tech:web-performance",
+      "url": "https://web.dev/explore/learn-core-web-vitals",
+      "expect": "Web Performance official site",
+      "status": 200,
+      "finalUrl": "https://web.dev/explore/learn-core-web-vitals",
+      "title": "Core Web Vitals &nbsp;|&nbsp; web.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "tensorflow-tutorials",
+      "url": "https://www.tensorflow.org/tutorials",
+      "expect": "TensorFlow tutorials — Google (TensorFlow)",
+      "status": 200,
+      "finalUrl": "https://www.tensorflow.org/tutorials?auto_signin=false",
+      "title": "Tutorials &nbsp;|&nbsp; TensorFlow Core",
+      "verdict": "ok"
+    },
+    {
+      "key": "terraform-language-docs",
+      "url": "https://developer.hashicorp.com/terraform/language",
+      "expect": "Terraform configuration language — HashiCorp",
+      "status": 200,
+      "finalUrl": "https://developer.hashicorp.com/terraform/language",
+      "title": "Overview - Configuration Language | Terraform | HashiCorp Developer",
+      "verdict": "ok"
+    },
+    {
+      "key": "terraform-tutorials",
+      "url": "https://developer.hashicorp.com/terraform/tutorials",
+      "expect": "Terraform tutorials — HashiCorp",
+      "status": 200,
+      "finalUrl": "https://developer.hashicorp.com/terraform/tutorials",
+      "title": "Tutorials | Terraform | HashiCorp Developer",
+      "verdict": "ok"
+    },
+    {
+      "key": "testing-library-docs",
+      "url": "https://testing-library.com/docs/",
+      "expect": "Testing Library documentation — Testing Library",
+      "status": 200,
+      "finalUrl": "https://testing-library.com/docs/",
+      "title": "Introduction | Testing Library",
+      "verdict": "ok"
+    },
+    {
+      "key": "testing-trophy",
+      "url": "https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications",
+      "expect": "The Testing Trophy and Testing Classifications — Kent C. Dodds",
+      "status": 200,
+      "finalUrl": "https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications",
+      "title": "The Testing Trophy and Testing Classifications",
+      "verdict": "ok"
+    },
+    {
+      "key": "the-linux-command-line",
+      "url": "https://linuxcommand.org/tlcl.php",
+      "expect": "The Linux Command Line (book) — William Shotts",
+      "status": 200,
+      "finalUrl": "https://linuxcommand.org/tlcl.php",
+      "title": "Linux Command Line Books by William Shotts",
+      "verdict": "ok"
+    },
+    {
+      "key": "the-odin-project",
+      "url": "https://www.theodinproject.com/",
+      "expect": "The Odin Project — The Odin Project",
+      "status": 200,
+      "finalUrl": "https://www.theodinproject.com/",
+      "title": "Your Career in Web Development Starts Here | The Odin Project",
+      "verdict": "ok"
+    },
+    {
+      "key": "think-python",
+      "url": "https://allendowney.github.io/ThinkPython/",
+      "expect": "Think Python (3rd edition) — Allen B. Downey",
+      "status": 200,
+      "finalUrl": "https://allendowney.github.io/ThinkPython/",
+      "title": "Think Python, 3rd edition — Think Python",
+      "verdict": "ok"
+    },
+    {
+      "key": "think-stats",
+      "url": "https://allendowney.github.io/ThinkStats/",
+      "expect": "Think Stats (3rd edition) — Allen B. Downey",
+      "status": 200,
+      "finalUrl": "https://allendowney.github.io/ThinkStats/",
+      "title": "Think Stats: Exploratory Data Analysis in Python — Think Stats, 3rd edition",
+      "verdict": "ok"
+    },
+    {
+      "key": "tour-of-csharp",
+      "url": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/",
+      "expect": "A tour of the C# language — Microsoft",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/",
+      "title": "C# docs - get started, tutorials, reference. - A tour of C# | Microsoft Learn",
+      "verdict": "ok"
+    },
+    {
+      "key": "tour-of-go",
+      "url": "https://go.dev/tour/",
+      "expect": "A Tour of Go — The Go Authors",
+      "status": 200,
+      "finalUrl": "https://go.dev/tour/",
+      "title": "A Tour of Go",
+      "verdict": "ok"
+    },
+    {
+      "key": "twelve-factor-app",
+      "url": "https://12factor.net/",
+      "expect": "The Twelve-Factor App — Adam Wiggins (Heroku)",
+      "status": 200,
+      "finalUrl": "https://12factor.net/",
+      "title": "The Twelve-Factor App",
+      "verdict": "ok"
+    },
+    {
+      "key": "type-challenges",
+      "url": "https://github.com/type-challenges/type-challenges",
+      "expect": "Type Challenges — Type Challenges community",
+      "status": 200,
+      "finalUrl": "https://github.com/type-challenges/type-challenges",
+      "title": "GitHub - type-challenges/type-challenges: Collection of TypeScript type challenges with online judge · GitHub",
+      "verdict": "ok"
+    },
+    {
+      "key": "typescript-deep-dive",
+      "url": "https://basarat.gitbook.io/typescript/",
+      "expect": "TypeScript Deep Dive — Basarat Ali Syed",
+      "status": 200,
+      "finalUrl": "https://basarat.gitbook.io/typescript",
+      "title": "README | TypeScript Deep Dive",
+      "verdict": "ok"
+    },
+    {
+      "key": "typescript-handbook",
+      "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "expect": "The TypeScript Handbook — Microsoft (TypeScript team)",
+      "status": 200,
+      "finalUrl": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "title": "TypeScript: Handbook - The TypeScript Handbook",
+      "verdict": "ok"
+    },
+    {
+      "key": "typescript-in-5-minutes",
+      "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+      "expect": "TypeScript for JavaScript Programmers — Microsoft (TypeScript team)",
+      "status": 200,
+      "finalUrl": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+      "title": "TypeScript: Documentation - TypeScript for JavaScript Programmers",
+      "verdict": "ok"
+    },
+    {
+      "key": "urlsession-documentation",
+      "url": "https://developer.apple.com/documentation/foundation/urlsession",
+      "expect": "URLSession documentation — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/documentation/foundation/urlsession",
+      "title": "URLSession | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "use-the-index-luke",
+      "url": "https://use-the-index-luke.com/",
+      "expect": "Use The Index, Luke! — Markus Winand",
+      "status": 200,
+      "finalUrl": "https://use-the-index-luke.com/",
+      "title": "SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...",
+      "verdict": "ok"
+    },
+    {
+      "key": "utopia-fluid-type",
+      "url": "https://utopia.fyi/",
+      "expect": "Utopia: fluid type and space calculators — Utopia (Trys Mudford & James Gilyead)",
+      "status": 200,
+      "finalUrl": "https://utopia.fyi/",
+      "title": "Fluid Responsive Design | Utopia",
+      "verdict": "ok"
+    },
+    {
+      "key": "visualgo",
+      "url": "https://visualgo.net/en",
+      "expect": "VisuAlgo — National University of Singapore",
+      "status": 200,
+      "finalUrl": "https://visualgo.net/en",
+      "title": "visualising data structures and algorithms through animation - VisuAlgo",
+      "verdict": "ok"
+    },
+    {
+      "key": "vitest-guide",
+      "url": "https://vitest.dev/guide/",
+      "expect": "Vitest guide — Vitest team",
+      "status": 200,
+      "finalUrl": "https://vitest.dev/guide/",
+      "title": "Getting Started | Guide | Vitest",
+      "verdict": "ok"
+    },
+    {
+      "key": "web-dev-learn-accessibility",
+      "url": "https://web.dev/learn/accessibility",
+      "expect": "Learn Accessibility (web.dev) — Google Chrome team (web.dev)",
+      "status": 200,
+      "finalUrl": "https://web.dev/learn/accessibility",
+      "title": "Learn Accessibility &nbsp;|&nbsp; web.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "web-dev-learn-css",
+      "url": "https://web.dev/learn/css",
+      "expect": "Learn CSS (web.dev) — Google Chrome team (web.dev)",
+      "status": 200,
+      "finalUrl": "https://web.dev/learn/css",
+      "title": "Learn CSS &nbsp;|&nbsp; web.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "web-dev-learn-design",
+      "url": "https://web.dev/learn/design",
+      "expect": "Learn Responsive Design (web.dev) — Google Chrome team (web.dev)",
+      "status": 200,
+      "finalUrl": "https://web.dev/learn/design",
+      "title": "Learn Responsive Design &nbsp;|&nbsp; web.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "web-dev-learn-html",
+      "url": "https://web.dev/learn/html",
+      "expect": "Learn HTML (web.dev) — Google Chrome team (web.dev)",
+      "status": 200,
+      "finalUrl": "https://web.dev/learn/html",
+      "title": "Learn HTML &nbsp;|&nbsp; web.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "web-dev-learn-performance",
+      "url": "https://web.dev/learn/performance",
+      "expect": "Learn Performance (web.dev) — Google Chrome team (web.dev)",
+      "status": 200,
+      "finalUrl": "https://web.dev/learn/performance",
+      "title": "Learn Performance &nbsp;|&nbsp; web.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "web-vitals",
+      "url": "https://web.dev/articles/vitals",
+      "expect": "Web Vitals — Google Chrome team (web.dev)",
+      "status": 200,
+      "finalUrl": "https://web.dev/articles/vitals",
+      "title": "Web Vitals &nbsp;|&nbsp; Articles &nbsp;|&nbsp; web.dev",
+      "verdict": "ok"
+    },
+    {
+      "key": "webaim-contrast-checker",
+      "url": "https://webaim.org/resources/contrastchecker/",
+      "expect": "WebAIM Contrast Checker — WebAIM",
+      "status": 200,
+      "finalUrl": "https://webaim.org/resources/contrastchecker/",
+      "title": "WebAIM: Contrast Checker",
+      "verdict": "ok"
+    },
+    {
+      "key": "xcode-documentation",
+      "url": "https://developer.apple.com/documentation/xcode",
+      "expect": "Xcode documentation — Apple",
+      "status": 200,
+      "finalUrl": "https://developer.apple.com/documentation/xcode",
+      "title": "Xcode | Apple Developer Documentation",
+      "verdict": "ok"
+    },
+    {
+      "key": "you-dont-know-js",
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "expect": "You Don't Know JS Yet — Kyle Simpson",
+      "status": 200,
+      "finalUrl": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "GitHub - getify/You-Dont-Know-JS: A book series (2 published editions) on the JS language. · GitHub",
+      "verdict": "ok"
+    }
+  ]
+}
